@@ -1,0 +1,18 @@
+
+main:
+  items:
+    - title: Blog
+      url: /
+
+    - title: Handtuchtiere
+      url: /handtuchtiere
+
+    - title: Schiffs-Spotter
+      url: /schiffs-spotter
+
+    - title: Schiffsbewertungen
+      url: /schiffsbewertungen
+footer:
+  items:
+    - title: Impressum
+      url: /impressum

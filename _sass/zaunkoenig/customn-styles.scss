@@ -1,0 +1,18 @@
+h1 {
+  font-size: 2.5em;
+  letter-spacing: normal;
+
+  @media (min-width: 400px) {
+    font-size: 3em;
+  }
+  @media (min-width: 550px) {
+    font-size: 3em;
+  }
+  @media (min-width: 750px) {
+    font-size: 3em;
+  }
+}
+
+img {
+  max-width: 100%;
+}

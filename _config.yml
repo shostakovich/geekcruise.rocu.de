@@ -1,0 +1,11 @@
+url: https://geekcruise.rocu.de
+name: GeekCruise
+title: GeekCruise
+description: Geeks an Bord
+copyright: Sebastian Schuster
+
+baseurl: ""
+
+theme: zaunkoenig
+plugins:
+  - jekyll-feed
