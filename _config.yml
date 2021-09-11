@@ -6,6 +6,6 @@ copyright: Sebastian Schuster
 
 baseurl: ""
 
-theme: zaunkoenig
+remote-theme: shostakovich/zaunkoenig
 plugins:
   - jekyll-feed
