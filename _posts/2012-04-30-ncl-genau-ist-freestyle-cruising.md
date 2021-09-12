@@ -4,7 +4,7 @@ title: 'NCL: Was genau ist Freestyle-Cruising?'
 date: 2012-04-30T14:20:36+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?p=587
+
 permalink: /2012/04/ncl-genau-ist-freestyle-cruising/
 categories:
   - Blog

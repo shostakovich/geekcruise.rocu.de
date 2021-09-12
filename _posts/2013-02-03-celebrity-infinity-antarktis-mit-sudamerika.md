@@ -4,12 +4,14 @@ title: 'Celebrity Infinity – Antarktis mit Südamerika, 03.02.13'
 date: 2013-03-24T15:09:22+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?page_id=855
+
 ---
 zurückgelegte Distanz: 8342km / 4504sm
 
 [
-<img loading="lazy" src="/assets/2013/03/gps_map_celebrity_infinity.jpg" alt="GPS-Map - Reiseverlauf, zum Vergrößern anklicken"   class="size-full wp-image-915" srcset="/assets/2013/03/gps_map_celebrity_infinity.jpg 606w, /assets/2013/03/gps_map_celebrity_infinity-300x182.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />](/assets/2013/03/gps_map_celebrity_infinity_b.jpg)*GPS-Map – Reiseverlauf, zum Vergrößern anklicken*
+![](/assets/2013/03/gps_map_celebrity_infinity.jpg)](/assets/2013/03/gps_map_celebrity_infinity_b.jpg)
+
+*GPS-Map – Reiseverlauf, zum Vergrößern anklicken*
 
 Kapitän: Michael Sympouras
 Kreuzfahrt-Direktor: Alejandro Tortorelli
@@ -52,21 +54,23 @@ Auch heute klingelt der Wecker wieder viel zu früh. Eine Stadtrundfahrt steht a
 Hätte ich mirdoch nur vorher den Madonna-Film angeschaut, vielleicht wüsste ich dann ein bischen mehr über sie. So fällt mir nur der Song ein: &#8222;Don&#8217;t cry for me Argentina&#8220;.
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_9886-e1364039917474.jpg" alt="Grab Eva Peron - Buenos Aires" title="Grab Eva Peron - Buenos Aires" title="Grab Eva Peron - Buenos Aires"   class="size-full wp-image-885" /
+![Grab Eva Peron - Buenos Aires](/assets/2013/03/IMG_9886-e1364039917474.jpg)
+
 *Grab Eva Peron – Buenos Aires*
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_9906.jpg" alt="La Boca, Buenos Aires" title="La Boca - Buenos Aires"   class="size-full wp-image-886" srcset="/assets/2013/03/IMG_9906.jpg 606w, /assets/2013/03/IMG_9906-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
-*
-La Boca, Buenos Aires*
+![La Boca - Buenos Aires](/assets/2013/03/IMG_9906.jpg)
+
+*La Boca, Buenos Aires*
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_9918.jpg" alt="Buenos Aires" title="Buenos Aires"   class="size-full wp-image-888" srcset="/assets/2013/03/IMG_9918.jpg 606w, /assets/2013/03/IMG_9918-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
-*
-Buenos Aires*
+![Buenos Aires](/assets/2013/03/IMG_9918.jpg)
+
+*Buenos Aires*
 
 
-<img loading="lazy" src="/assets/2013/03/celebrity_infinity_antarktis_02.jpg" alt="Flores Generica - Buenos Aires"   class="size-full wp-image-909" srcset="/assets/2013/03/celebrity_infinity_antarktis_02.jpg 606w, /assets/2013/03/celebrity_infinity_antarktis_02-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Flores Generica - Buenos Aires](/assets/2013/03/celebrity_infinity_antarktis_02.jpg)
+
 *Flores Generica – Buenos Aires*
 
 Besser als die Totenwelt gefallen uns die zahlreichen Parks der Stadt. Hier findet man zahlreiche Statuen. Eine besonders schöne nennt sich Flores Generica.
@@ -90,18 +94,20 @@ Da heute heute erst ab 12:00 Einschiffung ist, haben wir genug Zeit auszuschlafe
 Eigentlich stellen wir uns das ziemlich easy vor mit der Einschiffung. Aber zu dem Zeitpunkt rechnen wir ja noch nicht damit, das gleichzeitig drei Schiffe einschiffen, in einem Kreuzfahrtterminal das maximal für ein großes Schiff ausgelegt ist. Neben der Celebrity Infinity schiffen noch Costa und Seabourn ein. Hurra was für ein Spaß, mehr als 6000 Gäste auf einmal.
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_9929.jpg" alt="Schlange stehen im Hafenterminal, Buenos Aires" title="Schlange stehen im Hafenterminal - Buenos Aires"   class="size-full wp-image-889" srcset="/assets/2013/03/IMG_9929.jpg 606w, /assets/2013/03/IMG_9929-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Schlange stehen im Hafenterminal - Buenos Aires](/assets/2013/03/IMG_9929.jpg)
+
 *Schlange stehen im Hafenterminal, Buenos Aires*
 
 Am schlimmsten hat es wie immer die Gäste von Costa getroffen, die müssen mehr oder weniger warten bis Seabourn und Celebrity fertig sind und dürfen es sich in der kleinen Halle gemütlich machen.
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_9933-e1364039803459.jpg" alt="Celebrity Infinity - Außenkabine"   class="size-full wp-image-890" /
-*
-Celebrity Infinity – Außenkabine*
+![Celebrity Infinity - Außenkabine](/assets/2013/03/IMG_9933-e1364039803459.jpg)
+
+*Celebrity Infinity – Außenkabine*
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_9939.jpg" alt="Rio del la Plata, Buenos Aires" title="Rio del la Plata, Buenos Aires"   class="size-full wp-image-891" srcset="/assets/2013/03/IMG_9939.jpg 606w, /assets/2013/03/IMG_9939-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Rio del la Plata, Buenos Aires](/assets/2013/03/IMG_9939.jpg)
+
 *Rio del la Plata, Buenos Aires*
 
 Für uns hingegen ist es nicht ganz so schlimm, wie damals bei der Einschiffung mit der Costa Pacifica in Hamburg. Damals waren wir gegen 13:00 am Hafen, aber erst nach über drei Stunden später auf dem Schiff.
@@ -140,28 +146,33 @@ Ausflug Tierra del Fuego, 4h (99$)
 Der Ausflug führt über teils unasphaltierte Straßen zu etlichen Fotostopps in der schönen Natur. Leider ist die Zeit immer viel zu knapp, um die Natur, die gerade zu zum Wandern einlädt, zu Fuß zu erkunden.
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_9973.jpg" alt="Ushuaia Hafen" title="Ushuaia Hafen"   class="size-full wp-image-892" srcset="/assets/2013/03/IMG_9973.jpg 606w, /assets/2013/03/IMG_9973-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
-*
-Ushuaia Hafen*
+![Ushuaia Hafen](/assets/2013/03/IMG_9973.jpg)
 
-
-<img loading="lazy" src="/assets/2013/03/celebrity_infinity_antarktis_05.jpg" alt="Ushuaia, Hafen"   class="size-full wp-image-912" srcset="/assets/2013/03/celebrity_infinity_antarktis_05.jpg 606w, /assets/2013/03/celebrity_infinity_antarktis_05-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
 *Ushuaia Hafen*
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_0011.jpg" alt="Tierra del Fuego - Feuerland, Argentinien" title="Tierra del Fuego - Feuerland, Argentinien"   class="size-full wp-image-863" srcset="/assets/2013/03/IMG_0011.jpg 606w, /assets/2013/03/IMG_0011-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Ushuaia, Hafen](/assets/2013/03/celebrity_infinity_antarktis_05.jpg)
+
+*Ushuaia Hafen*
+
+
+![Tierra del Fuego - Feuerland, Argentinien](/assets/2013/03/IMG_0011.jpg)
+
 *Tierra del Fuego – Nationalpark*
 
 
-<img loading="lazy" src="/assets/2013/03/celebrity_infinity_antarktis_03.jpg" alt="Tierra del Fuego - Nationalpark"   class="size-full wp-image-910" srcset="/assets/2013/03/celebrity_infinity_antarktis_03.jpg 606w, /assets/2013/03/celebrity_infinity_antarktis_03-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Tierra del Fuego - Nationalpark](/assets/2013/03/celebrity_infinity_antarktis_03.jpg)
+
 *Tierra del Fuego – Nationalpark*
 
 
-<img loading="lazy" src="/assets/2013/03/celebrity_infinity_antarktis_04.jpg" alt="Tierra del Fuego - Nationalpark"   class="size-full wp-image-911" srcset="/assets/2013/03/celebrity_infinity_antarktis_04.jpg 606w, /assets/2013/03/celebrity_infinity_antarktis_04-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Tierra del Fuego - Nationalpark](/assets/2013/03/celebrity_infinity_antarktis_04.jpg)
+
 *Tierra del Fuego – Nationalpark*
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_0022.jpg" alt="Tierra del Fuego - Feuerland, Argentinien" title="Tierra del Fuego - Feuerland, Argentinien"   class="size-full wp-image-864" srcset="/assets/2013/03/IMG_0022.jpg 606w, /assets/2013/03/IMG_0022-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Tierra del Fuego - Feuerland, Argentinien](/assets/2013/03/IMG_0022.jpg)
+
 *Tierra del Fuego – Nationalpark*
 
 Am Ende des Ausflugs bummeln wir durch den Kern von Ushuaia. Entlang der Hauptstrasse &#8222;San Martin&#8220; finden sich viele Geschäfte und Restaurants. Wirkliche Highlights finden wir jedoch nicht vor.
@@ -176,13 +187,13 @@ See: moderat
 Schon um 6 Uhr müssen wir heute morgen aus den Federn raus und ab ans Deck. Heute morgen fährt unser Schiff am Kap Horn entlang. Während wir an Deck stehen, gibt es immer wieder Durchsagen, bei denen etwas über die Geschichte des Kap&#8217;s erzählt wird.
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_0113.jpg" alt="um Kap Horn, Chile" title="um Kap Horn, Chile"   class="size-full wp-image-865" srcset="/assets/2013/03/IMG_0113.jpg 606w, /assets/2013/03/IMG_0113-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
-*
-um Kap Horn, Chile*
+![um Kap Horn, Chile](/assets/2013/03/IMG_0113.jpg)
+
+*um Kap Horn, Chile*
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_0124.jpg" alt="um Kap Horn, Chile" title="um Kap Horn, Chile"   class="size-full wp-image-866" srcset="/assets/2013/03/IMG_0124.jpg 606w, /assets/2013/03/IMG_0124-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
-*
+![um Kap Horn, Chile](/assets/2013/03/IMG_0124.jpg)
+
 um Kap Horn, Chile*
 
 Welcher dieser Felsen genau das Kap darstellt, scheint allerdings selbst dem Sprecher nicht so recht bewusst zu sein 😉
@@ -196,41 +207,49 @@ Wetter: nebelig bis bewölkt um die 0°C
 See: ruhig
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_0150.jpg" alt="Schollart Channel, Antarktis" title="Schollart Channel, Antarktis"   class="size-full wp-image-868" srcset="/assets/2013/03/IMG_0150.jpg 606w, /assets/2013/03/IMG_0150-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Schollart Channel, Antarktis](/assets/2013/03/IMG_0150.jpg)
+
 *Schollart Channel, Antarktis*
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_0173.jpg" alt="Schollart Channel, Antarktis" title="Schollart Channel, Antarktis"   class="size-full wp-image-869" srcset="/assets/2013/03/IMG_0173.jpg 606w, /assets/2013/03/IMG_0173-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Schollart Channel, Antarktis](/assets/2013/03/IMG_0173.jpg)
+
 *Schollart Channel, Antarktis*
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_0213.jpg" alt="Schollart Channel, Antarktis" title="Schollart Channel, Antarktis"   class="size-full wp-image-870" srcset="/assets/2013/03/IMG_0213.jpg 606w, /assets/2013/03/IMG_0213-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Schollart Channel, Antarktis](/assets/2013/03/IMG_0213.jpg)
+
 *Schollart Channel, Antarktis*
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_0236.jpg" alt="Schollart Channel, Antarktis" title="Schollart Channel, Antarktis"   class="size-full wp-image-871" srcset="/assets/2013/03/IMG_0236.jpg 606w, /assets/2013/03/IMG_0236-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Schollart Channel, Antarktis](/assets/2013/03/IMG_0236.jpg)
+
 *Schollart Channel, Antarktis*
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_0245.jpg" alt="Schollart Channel, Antarktis" title="Schollart Channel, Antarktis"   class="size-full wp-image-872" srcset="/assets/2013/03/IMG_0245.jpg 606w, /assets/2013/03/IMG_0245-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Schollart Channel, Antarktis](/assets/2013/03/IMG_0245.jpg)
+
 *Schollart Channel, Antarktis*
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_0144.jpg" alt="Schollart Channel, Antarktis" title="Schollart Channel, Antarktis"   class="alignnone size-full wp-image-867" srcset="/assets/2013/03/IMG_0144.jpg 606w, /assets/2013/03/IMG_0144-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Schollart Channel, Antarktis](/assets/2013/03/IMG_0144.jpg)
+
 *Schollart Channel, Antarktis*
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_0292.jpg" alt="Schollart Channel, Antarktis" title="Schollart Channel, Antarktis"   class="alignnone size-full wp-image-874" srcset="/assets/2013/03/IMG_0292.jpg 606w, /assets/2013/03/IMG_0292-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Schollart Channel, Antarktis](/assets/2013/03/IMG_0292.jpg)
+
 *Schollart Channel, Antarktis*
 
 
-<img loading="lazy" src="/assets/2013/03/celebrity_infinity_antarktis_06.jpg" alt="Eisberge - Schollart Channel"   class="alignnone size-full wp-image-913" srcset="/assets/2013/03/celebrity_infinity_antarktis_06.jpg 606w, /assets/2013/03/celebrity_infinity_antarktis_06-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Eisberge - Schollart Channel](/assets/2013/03/celebrity_infinity_antarktis_06.jpg)
+
 *Eisberge – Schollart Channel*
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_0268.jpg" alt="Paradise Bay, Antarktis" title="Paradise Bay, Antarktis"   class="size-full wp-image-873" srcset="/assets/2013/03/IMG_0268.jpg 606w, /assets/2013/03/IMG_0268-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
-*
-Paradise Bay, Antarktis*
+![Paradise Bay, Antarktis](/assets/2013/03/IMG_0268.jpg)
+
+*Paradise Bay, Antarktis*
 
 Wegen der schlechten Sicht erreichen wir heute den Schollart-Kanal mit 1,5h Verspätung gegen 11:30. Dick eingepackt bestaunen wir von Deck die ersten Ausläufer des Weißen Kontinents. Uns erfasst eine unwirkliche Stimmung. Am gesamten Horizont türmt sich das ewige Eis auf, oft bis in die Wolken.
 
@@ -245,13 +264,14 @@ Einen der letzten Flecken zu sehen, den der Mensch noch nicht ganz kaputt gemach
 
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_1221.jpg" alt="Schollart Channel, Antarktis" title="Schollart Channel, Antarktis"   class="size-full wp-image-881" srcset="/assets/2013/03/IMG_1221.jpg 606w, /assets/2013/03/IMG_1221-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Schollart Channel, Antarktis](/assets/2013/03/IMG_1221.jpg)
+
 *Schollart Channel, Antarktis*
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_1278.jpg" alt="Eispanzer, Antarktis" title="Eispanzer, Antarktis"   class="size-full wp-image-882" srcset="/assets/2013/03/IMG_1278.jpg 606w, /assets/2013/03/IMG_1278-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
-*
-Eispanzer, Antarktis*
+![Eispanzer, Antarktis](/assets/2013/03/IMG_1278.jpg)
+
+*Eispanzer, Antarktis*
 
 Um 17:30 fahren wir zu unserem nächsten Ziel – Elephant-Island.
 Show: Rebecca Lowe, Solo-Musical-Songs, nicht besucht
@@ -266,7 +286,7 @@ Auf Elephant Island strandeten die Männer von Ernest Shakelton und harten monat
 Ich hatte vorher ein Buch zum Thema gelesen und nach dem Besuch hier kommen mir die Abenteuer der Forscher und Entdecker umso unwirklicher vor.
 
 Um möglichst viel von dieser Insel zu haben, lohnt es sich vorher &#8222;[635 Tage im Eis](http://www.amazon.de/gp/product/3442308410/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3442308410&linkCode=as2&tag=zipfeblog-21)
-<img loading="lazy" src="http://www.assoc-amazon.de/e/ir?t=zipfeblog-21&#038;l=as2&#038;o=3&#038;a=3442308410"   border="0" alt="" style="border:none !important; margin:0px !important;" />&#8220; zu lesen.
+![](http://www.assoc-amazon.de/e/ir?t=zipfeblog-21&#038;l=as2&#038;o=3&#038;a=3442308410)&#8220; zu lesen.
 
 Den ansonsten sieht das hier nur wie eine große eisige Insel aus 😉
 
@@ -289,11 +309,13 @@ wenige Taxis sind in der Innenstadt vorhanden.
 Innenstadt in Gehreichweite der Tenderboot-Pier (ca. 100m entfernt)
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_0303.jpg" alt="Port Stanley, Falkland Inseln" title="Port Stanley, Falkland Inseln"   class="size-full wp-image-875" srcset="/assets/2013/03/IMG_0303.jpg 606w, /assets/2013/03/IMG_0303-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Port Stanley, Falkland Inseln](/assets/2013/03/IMG_0303.jpg)
+
 *Port Stanley, Falkland Inseln*
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_0313.jpg" alt="Port Stanley, Falkland Inseln" title="Port Stanley, Falkland Inseln"   class="size-full wp-image-876" srcset="/assets/2013/03/IMG_0313.jpg 606w, /assets/2013/03/IMG_0313-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Port Stanley, Falkland Inseln](/assets/2013/03/IMG_0313.jpg)
+
 *Port Stanley, Falkland Inseln*
 
 Nach dem zeitraubenden Tendern (~2h Wartezeit) erreichen wir gegen 10:30 die Inselhauptstadt Port Stanley. Obwohl hier gerade Hochsommer ist, ist es heute mit 10°C eher frisch.
@@ -330,23 +352,28 @@ Heute haben wir einen Ausflug über unsere E-Hoi Reiseleiterin gebucht (99€). 
 Aber zurück zum Anfang des Ausfluges, der ziemlich konfus abläuft: Die gesamte Reisegruppe ist an der Pier angetreten, nur kein Bus für uns weit und breit. Leider ist an unserer älteren Reiseleiterin die Einführung des Handys vorüber gegangen. Daher dauert es ewig, bis sich herausstellt, dass unsere Busse nicht direkt an die Pier fahren dürfen, sondern vor dem Hafen auf uns warten.
 
 
-<img loading="lazy" src="/assets/2013/03/celebrity_infinity_antarktis_07.jpg" alt="Patagonien"   class="size-full wp-image-914" srcset="/assets/2013/03/celebrity_infinity_antarktis_07.jpg 606w, /assets/2013/03/celebrity_infinity_antarktis_07-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Patagonien](/assets/2013/03/celebrity_infinity_antarktis_07.jpg)
+
 *Patagonien*
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_0336.jpg" alt="Seelöwen Kolonie, Insel Valdes" title="Seelöwen Kolonie, Insel Valdes"   class="size-full wp-image-877" srcset="/assets/2013/03/IMG_0336.jpg 606w, /assets/2013/03/IMG_0336-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Seelöwen Kolonie, Insel Valdes](/assets/2013/03/IMG_0336.jpg)
+
 *Seelöwen Kolonie, Insel Valdes*
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_0374.jpg" alt="Seelöwen Kolonie, Insel Valdes" title="Seelöwen Kolonie, Insel Valdes"   class="size-full wp-image-878" srcset="/assets/2013/03/IMG_0374.jpg 606w, /assets/2013/03/IMG_0374-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Seelöwen Kolonie, Insel Valdes](/assets/2013/03/IMG_0374.jpg)
+
 *Seelöwen Kolonie, Insel Valdes*
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_1304.jpg" alt="Seelöwen Kolonie, Insel Valdes" title="Seelöwen Kolonie, Insel Valdes"   class="size-full wp-image-883" srcset="/assets/2013/03/IMG_1304.jpg 606w, /assets/2013/03/IMG_1304-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Seelöwen Kolonie, Insel Valdes](/assets/2013/03/IMG_1304.jpg)
+
 *Seelöwen Kolonie, Insel Valdes*
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_1329.jpg" alt="Armadillo, Gürteltier, Insel Valdes" title="Armadillo, Gürteltier, Insel Valdes"   class="size-full wp-image-884" srcset="/assets/2013/03/IMG_1329.jpg 606w, /assets/2013/03/IMG_1329-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Armadillo, Gürteltier, Insel Valdes](/assets/2013/03/IMG_1329.jpg)
+
 *Armadillo, Gürteltier, Insel Valdes*
 
 Während des gesammten Ausflugs sehen wir sehr viele Tiere:
@@ -387,11 +414,13 @@ Taxis sind verfügbar
 Innenstadt ca. 500m entfernt
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_0427.jpg" alt="Hafen Montevideo, Uruguay" title="Hafen Montevideo, Uruguay"   class="size-full wp-image-880" srcset="/assets/2013/03/IMG_0427.jpg 606w, /assets/2013/03/IMG_0427-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Hafen Montevideo, Uruguay](/assets/2013/03/IMG_0427.jpg)
+
 *Hafen Montevideo – Uruguay*
 
 
-<img loading="lazy" src="/assets/2013/03/IMG_0385.jpg" alt="Montevideo, Uruguay" title="Montevideo, Uruguay"   class="size-full wp-image-879" srcset="/assets/2013/03/IMG_0385.jpg 606w, /assets/2013/03/IMG_0385-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" /
+![Montevideo, Uruguay](/assets/2013/03/IMG_0385.jpg)
+
 *Montevideo – Uruguay*
 
 In Montevideo nehmen wir an einer Stadtrundfahrt &#8222;Montevideo Highlights teil&#8220;. Wir werden an mehreren Statuen aus dem Bus gelassen – drei davon bestehen aus Ochsen oder Pferden, die einen Wagen aus dem Dreck ziehen.
@@ -415,8 +444,9 @@ Die Ausschiffung verläuft relativ ok, angesichts des sehr kleinen Terminals. Au
 
 Wir werden zu unserem Hotel transferiert und gehen noch einmal durch Buenos Aires spazieren – so eine schöne Stadt!
 
-[
-<img loading="lazy" src="/assets/2013/03/celebrity_infinity_antarktis_01.jpg" alt="Tango Show - Buenos Aires"   class="size-full wp-image-908" srcset="/assets/2013/03/celebrity_infinity_antarktis_01.jpg 606w, /assets/2013/03/celebrity_infinity_antarktis_01-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />](/assets/2013/03/celebrity_infinity_antarktis_01.jpg)*Tango Show – Buenos Aires*
+![](/assets/2013/03/celebrity_infinity_antarktis_01.jpg)](/assets/2013/03/celebrity_infinity_antarktis_01.jpg)
+
+*Tango Show – Buenos Aires*
 
 Am Abend besuchen wir ein Essen mit Tango-Show.
 
@@ -447,11 +477,11 @@ Am Abend sind wir dann endlich wieder in München und bibbern wieder bei 0°C.
 
 ### Was war nicht so gut
 
--nicht so gut hat mir das meist überfüllte Büffetrestaurant Oceanview Café gefallen, besonders zu den Stosszeiten an Landtagen beim Frühstück musste man sich oft in den Poolbreich zum Essen zurückziehen.
--die Auswahl beim Zimmerservice-Frühstück war eher mager
--der Tenderservice auf den Falklandinseln war schlecht organisiert, man hätte ein bisschen Mathe betreiben und den Gästen feste Tenderzeiten nennen können, anstatt sie stundenlang um die Martini-Bar zu sammeln
--bei der letztjährigen Renovierung im Trockendock hätte man ruhig etwas mehr ausgeben können: bei verschlissenen Ergometern im Gym, Lufteinschlüssen oder reingekratze Wörter in den Außenfenstern oder zweifelhaft gewartete Tenderboote, da darf der Deutsche in mir nicht zu genau hinsehen.
--die Crew machte einen z.T. eher müden und teilnahmslosen Eindruck, was auch meine Jacke zu spüren bekommen hat
+* nicht so gut hat mir das meist überfüllte Büffetrestaurant Oceanview Café gefallen, besonders zu den Stosszeiten an Landtagen beim Frühstück musste man sich oft in den Poolbreich zum Essen zurückziehen.
+* die Auswahl beim Zimmerservice-Frühstück war eher mager
+* der Tenderservice auf den Falklandinseln war schlecht organisiert, man hätte ein bisschen Mathe betreiben und den Gästen feste Tenderzeiten nennen können, anstatt sie stundenlang um die Martini-Bar zu sammeln
+* bei der letztjährigen Renovierung im Trockendock hätte man ruhig etwas mehr ausgeben können: bei verschlissenen Ergometern im Gym, Lufteinschlüssen oder reingekratze Wörter in den Außenfenstern oder zweifelhaft gewartete Tenderboote, da darf der Deutsche in mir nicht zu genau hinsehen.
+* die Crew machte einen z.T. eher müden und teilnahmslosen Eindruck, was auch meine Jacke zu spüren bekommen hat
 
 ### Fazit
 

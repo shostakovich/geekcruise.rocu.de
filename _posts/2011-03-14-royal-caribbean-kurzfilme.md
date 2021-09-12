@@ -4,7 +4,7 @@ title: Royal Caribbean Kurzfilme
 date: 2011-03-14T19:23:49+00:00
 author: SES
 layout: post
-guid: http://geekcruise.zipfelmaus.com/?p=53
+
 permalink: /2011/03/royal-caribbean-kurzfilme/
 categories:
   - Blog

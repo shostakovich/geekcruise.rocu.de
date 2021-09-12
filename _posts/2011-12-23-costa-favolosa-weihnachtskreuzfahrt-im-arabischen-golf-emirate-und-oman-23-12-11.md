@@ -4,7 +4,7 @@ title: 'Costa Favolosa: Weihnachtskreuzfahrt im arabischen Golf (Emirate und Oma
 date: 2012-01-10T21:50:22+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?page_id=516
+
 ---
 ### Kreuzfahrt in Zahlen
 
@@ -17,7 +17,7 @@ Kapitän: Mauro Muratore
 Kreuzfahrtdirektor: Ciro
 
 [
-<img loading="lazy" src="/assets/2012/01/gps_map_dubai_costa_favolosa_606_zoom.jpg" alt="" title="GPS-Karte"   class="alignnone size-full wp-image-559" srcset="/assets/2012/01/gps_map_dubai_costa_favolosa_606_zoom.jpg 606w, /assets/2012/01/gps_map_dubai_costa_favolosa_606_zoom-300x181.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />](/assets/2012/01/gps_map_dubai_costa_favolosa_big_zoom.jpg)
+![GPS-Karte](/assets/2012/01/gps_map_dubai_costa_favolosa_606_zoom.jpg)](/assets/2012/01/gps_map_dubai_costa_favolosa_big_zoom.jpg)
 
 ### Donnerstag 22.12.11, München – Deutschland
 
@@ -53,7 +53,7 @@ Um 8:30 fahren wir dann, nicht mehr so ganz bedröppelt, vom Hafen mit einem der
 Am zweiten Stopp der blauen Route steigen wir aus dem Doppeldeckerbus aus, um eine Kleinigkeit zum Essen zu finden. Wir haben ja seit gestern Abend im Flieger nichts mehr gegessen. Wir finden die Kette &#8222;Paul&#8220; in dem Einkaufszentrum, die einer französische Patisserie nachempfunden ist. Wir geniessen ein sehr gutes Frühstück zu fast angemessen Preisen. Die Stimmung steigert sich wieder zunehmenst.
 
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_0.jpg" alt="" title="Dubai - Burj al Arab und die Skyline"   class="alignnone size-full wp-image-522" srcset="/assets/2012/01/costa_favolosa_0.jpg 606w, /assets/2012/01/costa_favolosa_0-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Dubai - Burj al Arab und die Skyline](/assets/2012/01/costa_favolosa_0.jpg)
 
 So gestärkt, freuen wir uns nun endlich, einen schönen sonnigen ersten Tag in Dubai zu verbringen. Als nächsten Punkt fährt unser Bus dann das Burj al Arab an. Rein kommt man nur als Hotelgast, oder wenn man einen doch etwas überteuerten Tee mit Dingens für 200€ bestellt. Daher steigen wir hier nicht aus, sondern knippsen fleissig vom Bus aus.
 
@@ -65,24 +65,24 @@ Damit hören die Attraktionen aber noch nicht auf, draußen gibt es zur jeder vo
 Die Fountain-Wasseranlage wird übertrohnt von dem riesigen Burj Khalifa. Diesen werden wir wohl an einem anderen Tag noch besuchen.
 
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_107.jpg" alt="" title="Dubai - Fountain"   class="alignnone size-full wp-image-556" srcset="/assets/2012/01/costa_favolosa_107.jpg 606w, /assets/2012/01/costa_favolosa_107-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Dubai - Fountain](/assets/2012/01/costa_favolosa_107.jpg)
 
 Als nächstes steigen wir auf die rote Bus-Linie um. Sie führt uns in die älteren Viertel von Dubai. Ein nettes Extra der Route ist die kostenlose Teilnahme an einer Dhow Fahrt auf dem Dubai Creek, einer Meeresenge, die sich wie ein Fluss durch Teile Dubais schlängelt.
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_109.jpg" alt="" title="Dhow Fahrt auf dem Dubai Creek"   class="alignnone size-full wp-image-558" srcset="/assets/2012/01/costa_favolosa_109.jpg 606w, /assets/2012/01/costa_favolosa_109-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Dhow Fahrt auf dem Dubai Creek](/assets/2012/01/costa_favolosa_109.jpg)
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_108.jpg" alt="" title="Hochhäuser am Dubai Creek"   class="alignnone size-full wp-image-557" srcset="/assets/2012/01/costa_favolosa_108.jpg 606w, /assets/2012/01/costa_favolosa_108-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Hochhäuser am Dubai Creek](/assets/2012/01/costa_favolosa_108.jpg)
 
 Der Tag neigt sich nun langsam auch dem Ende entgegen, es wird also Zeit auf das Schiff zurückzukehren.
 Als wir gegen 18:00 am Hafenterminal sind, sind sehr wenige Passiergiere beim Einchecken. Wir sind also recht schnell auf dem Schiff und können gleich im Buffetrestaurant auf Deck 9 eine Kleinigkeit essen.
 Um 20:00 sind, wie versprochen, auch unsere Kabinen fertig. Unser Gepäck wartet vielleicht schon den halben Tag hier auf uns.
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_1.jpg" alt="" title="Costa Favolosa - Außenkabine"   class="alignnone size-full wp-image-523" srcset="/assets/2012/01/costa_favolosa_1.jpg 606w, /assets/2012/01/costa_favolosa_1-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Costa Favolosa - Außenkabine](/assets/2012/01/costa_favolosa_1.jpg)
 
 Ziemlich müde legen wir uns gegen 22:00 schlafen und wollen den morgigen Tag erst einmal sehr ruhig angehen.
 
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_13.jpg" alt="" title="Dubai Skyline vom Schiff aus"   class="alignnone size-full wp-image-535" srcset="/assets/2012/01/costa_favolosa_13.jpg 606w, /assets/2012/01/costa_favolosa_13-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Dubai Skyline vom Schiff aus](/assets/2012/01/costa_favolosa_13.jpg)
 
 ### Samstag, 24.12.11, Heiligabend, Dubai – VAE
 
@@ -98,23 +98,23 @@ Um 13:00 legt dann unser Schiff ab und nimmt Kurs auf Muscat, Oman. Dabei haben 
 Gegen 15:15 beginnt das Tohobabohu der Rettungsübung. In sage und schreibe neun Sprachen wird erst einmal die Ansage gemacht, dass gleich die Seenotrettungsübung stattfindet. Das dauert schon einmal eine Viertelstunde. Dann erst folgt das eigentliche Seenot-Signal. Dann marschiert jeder zu seiner Muster-Station und dann wird wieder in neun Sprachen erklärt, wie man sich im Notfall zu verhalten hat.
 Insgesamt hat die Übung eine geschlagene Stunde gedauert. Keine andere Reederei macht das so langweilig und langwierig.
 Aber nun kenne ich die Ansagen auf:
--Italienisch
--Englisch
--Französisch
--Deutsch
--Holländisch
--Spanisch
--Russisch
--Chinesisch
--Japanisch
+* Italienisch
+* Englisch
+* Französisch
+* Deutsch
+* Holländisch
+* Spanisch
+* Russisch
+* Chinesisch
+* Japanisch
 
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_100.jpg" alt="" title="Seenot-Rettungsübung"   class="alignnone size-full wp-image-549" srcset="/assets/2012/01/costa_favolosa_100.jpg 606w, /assets/2012/01/costa_favolosa_100-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Seenot-Rettungsübung](/assets/2012/01/costa_favolosa_100.jpg)
 
 Am Abend findet ein Gala-Essen statt, es ist ja schließlich Heiligabend. In fünf Gängen werden wir verwöhnt. Zur Feier des Tages gehen Wasser und Wein auf das Haus.
 
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_3.jpg" alt="" title="Costa Favolosa - Theater"   class="alignnone size-full wp-image-525" srcset="/assets/2012/01/costa_favolosa_3.jpg 606w, /assets/2012/01/costa_favolosa_3-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Costa Favolosa - Theater](/assets/2012/01/costa_favolosa_3.jpg)
 
 Danach findet im Theater eine Variety-Show statt. Da wir mittlerweile doch sehr erfahren sind, in Sachen Shows, reißen uns nur wenige Sachen richtig vom Hocker. Mehrere Cover-Medleys bekannter Künstler werden geschmettert. Die Musik ist leider nicht live, sondern vom Band. Die Artisten-Nummer fanden wir dagegen ganz gut.
 
@@ -128,13 +128,13 @@ See: ruhig
 Heute haben wir den Ausflug – 6018 Höhepunkte von Muscat und Nakhl – über Costa gebucht. Zu beginn führt uns unser acht stündiger Ausflug zum Al-Alam-Palast, den wir nur von außen besichtigen können. Anschließend geht es zum Museum Bait Al Zubair, das einen kleinen Einblick in die Geschichte des Omans verleiht. Eine 1,5 stündige Busfahrt führt uns in die Gegend der Nakhl-Quellen. Hier besuchen wir zuerst eine kürzlich restaurierte Festung, ehe wir anschließend die Quellen von Nakhl selbst besichtigen. Das Quellwasser ist erstaunlich warm und es tummeln sich zahlreiche kleine Fische darin, die geneigten Touristen gerne an ihren Käsefüßen knabbern.
 
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_101.jpg" alt="" title="Oman - Muscat Ausflug"   class="alignnone size-full wp-image-550" srcset="/assets/2012/01/costa_favolosa_101.jpg 606w, /assets/2012/01/costa_favolosa_101-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Oman - Muscat Ausflug](/assets/2012/01/costa_favolosa_101.jpg)
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_102.jpg" alt="" title="Oman - Muscat Ausflug"   class="alignnone size-full wp-image-551" srcset="/assets/2012/01/costa_favolosa_102.jpg 606w, /assets/2012/01/costa_favolosa_102-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Oman - Muscat Ausflug](/assets/2012/01/costa_favolosa_102.jpg)
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_103.jpg" alt="" title="Oman - Muscat Ausflug"   class="alignnone size-full wp-image-552" srcset="/assets/2012/01/costa_favolosa_103.jpg 606w, /assets/2012/01/costa_favolosa_103-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Oman - Muscat Ausflug](/assets/2012/01/costa_favolosa_103.jpg)
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_104.jpg" alt="" title="Oman - Muscat Ausflug"   class="alignnone size-full wp-image-553" srcset="/assets/2012/01/costa_favolosa_104.jpg 606w, /assets/2012/01/costa_favolosa_104-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Oman - Muscat Ausflug](/assets/2012/01/costa_favolosa_104.jpg)
 
 Im nahe gelegenen Al Nahda Resort nehmen wir unser Mittagessen ein.Danach fahren wir zurück nach Muscat, wo wir einen Souk besichtigen und mal wieder nichts von dem Nippes kaufen.
 
@@ -148,7 +148,7 @@ See: ruhig
 Heute haben wir einen weiteren Ausflug über Costa gebucht: 6181 – Fujairah und seine Tradition. Hier besichtigen wir zu beginn einen Gemüse- und Fischmarkt. Besonders die kleinen Bananen sollte man hier probieren, sie sind sehr günstig und sehr schmackhaft. Der Geschmack ist weniger bananig, als bei ihren großen Verwandten, dafür sehr süß mit leicht zitronigen Aroma. Wer gerne Datteln kaufen möchte, sollte handeln, da die genannten Preise doch deutlich über dem üblichen Preisen liegen.
 
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_105.jpg" alt="" title="Fujairah - Öltanks"   class="alignnone size-full wp-image-554" srcset="/assets/2012/01/costa_favolosa_105.jpg 606w, /assets/2012/01/costa_favolosa_105-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Fujairah - Öltanks](/assets/2012/01/costa_favolosa_105.jpg)
 
 Weitere Stopps beim Ausflug sind sind:
 das Museum von Fujairah
@@ -169,16 +169,16 @@ Unsere Tour führte uns über die wichtigsten Punkte der Stadt, über den iranis
 Der nächste Zwischenstopp wäre im Prinzip das Luxushotel Emirates Palace gewesen, aber das war wegen einem Treffen der Königsfamilie für Touristen gesperrt.
 
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_106.jpg" alt="" title="Abu Dhabi - Emirates Palace Hotel"   class="alignnone size-full wp-image-555" srcset="/assets/2012/01/costa_favolosa_106.jpg 606w, /assets/2012/01/costa_favolosa_106-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Abu Dhabi - Emirates Palace Hotel](/assets/2012/01/costa_favolosa_106.jpg)
 
 Darum ging es dann ohne Aufenthalt direkt weiter zur Scheich Zayed Moschee, die größte Moschee der VAE und außerhalb Saudi Arabiens. Eintritt wird auch nicht-Muslimen gewärt. Frauen müssen sich jedoch z.T. Verschleiern und bei Männern werden keine kurzen Hosen geduldet. Hier werden die weißen beinlangen Hemden verteilt. Aufgrund des Mittagsgebetes mussten wir bis etwa 13:00 kurz warten. Aber das warten hat sich durchaus gelohnt.
 
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_4.jpg" alt="" title="Abu Dhabi - Scheich Zayed Moschee"   class="alignnone size-full wp-image-526" srcset="/assets/2012/01/costa_favolosa_4.jpg 606w, /assets/2012/01/costa_favolosa_4-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Abu Dhabi - Scheich Zayed Moschee](/assets/2012/01/costa_favolosa_4.jpg)
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_6.jpg" alt="" title="Abu Dhabi - Scheich Zayed Moschee"   class="alignnone size-full wp-image-528" srcset="/assets/2012/01/costa_favolosa_6.jpg 606w, /assets/2012/01/costa_favolosa_6-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Abu Dhabi - Scheich Zayed Moschee](/assets/2012/01/costa_favolosa_6.jpg)
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_7.jpg" alt="" title="Abu Dhabi - Scheich Zayed Moschee"   class="alignnone size-full wp-image-529" srcset="/assets/2012/01/costa_favolosa_7.jpg 606w, /assets/2012/01/costa_favolosa_7-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Abu Dhabi - Scheich Zayed Moschee](/assets/2012/01/costa_favolosa_7.jpg)
 
 Nach dem Besuch der Moschee setzen wir unsere Reise fort und besuchen als letzten Zwischenstopp die Abu Dhabi Mall. Hier finden wir im obersten Geschoss einen Eisladen, der mit ziemlich viel Aufsehens einen Eisbecher fertigt.
 
@@ -198,13 +198,13 @@ Einen Bordausflug konnten wir für heute leider nicht mehr kurzfristig buchen, d
 Ausschlafen, ein spätes Frühstück, ein wenig lesen an Deck, so kann man den Tag auch einmal recht ruhig angehen lassen. Ganz im Gegensatz zu den Metropolen in Dubai und Abu Dhabi, wo man so schnell und so viel wie möglich an einem Tag sehen möchte.
 
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_2.jpg" alt="" title="Costa Favolosa - Deck"   class="alignnone size-full wp-image-524" srcset="/assets/2012/01/costa_favolosa_2.jpg 606w, /assets/2012/01/costa_favolosa_2-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Costa Favolosa - Deck](/assets/2012/01/costa_favolosa_2.jpg)
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_8.jpg" alt="" title="Costa Favolosa - Atrium"   class="alignnone size-full wp-image-530" srcset="/assets/2012/01/costa_favolosa_8.jpg 606w, /assets/2012/01/costa_favolosa_8-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Costa Favolosa - Atrium](/assets/2012/01/costa_favolosa_8.jpg)
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_14.jpg" alt="" title="Costa Favolosa - Heckbereich"   class="alignnone size-full wp-image-536" srcset="/assets/2012/01/costa_favolosa_14.jpg 606w, /assets/2012/01/costa_favolosa_14-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Costa Favolosa - Heckbereich](/assets/2012/01/costa_favolosa_14.jpg)
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_15.jpg" alt="" title="Costa Favolosa - überdachter Poolbereich"   class="alignnone size-full wp-image-537" srcset="/assets/2012/01/costa_favolosa_15.jpg 606w, /assets/2012/01/costa_favolosa_15-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Costa Favolosa - überdachter Poolbereich](/assets/2012/01/costa_favolosa_15.jpg)
 
 ### Donnerstag, 29.12.11, Dubai – VAE
 
@@ -215,13 +215,13 @@ Heute nehmen wir anstelle dem Doppeldecker-Bus ein Taxi zur Dubai Mall. Wir woll
 Uns bleibt daher viel Zeit, noch einmal durch die Mall zu schlendern und nach Schnäppchen ausschau zu halten. Leider finden sich nur gute Angebote im Columbia-Outdoor-Shop. Andere Shops mehr oder wenig genauso teuer wie bei uns oder teurer.
 
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_12.jpg" alt="" title="Burj Khalifa"   class="alignnone size-full wp-image-534" srcset="/assets/2012/01/costa_favolosa_12.jpg 606w, /assets/2012/01/costa_favolosa_12-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Burj Khalifa](/assets/2012/01/costa_favolosa_12.jpg)
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_11.jpg" alt="" title="Dubai Mall - Aquarium"   class="alignnone size-full wp-image-533" srcset="/assets/2012/01/costa_favolosa_11.jpg 606w, /assets/2012/01/costa_favolosa_11-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Dubai Mall - Aquarium](/assets/2012/01/costa_favolosa_11.jpg)
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_10.jpg" alt="" title="Dubai Mall - Ice Rink"   class="alignnone size-full wp-image-532" srcset="/assets/2012/01/costa_favolosa_10.jpg 606w, /assets/2012/01/costa_favolosa_10-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Dubai Mall - Ice Rink](/assets/2012/01/costa_favolosa_10.jpg)
 
-<img loading="lazy" src="/assets/2012/01/costa_favolosa_9.jpg" alt="" title="Dubai Mall - Waterfall"   class="alignnone size-full wp-image-531" srcset="/assets/2012/01/costa_favolosa_9.jpg 606w, /assets/2012/01/costa_favolosa_9-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Dubai Mall - Waterfall](/assets/2012/01/costa_favolosa_9.jpg)
 
 Nach vielen Fotos wollen wir gegen 17:30 wieder zurück zum Schiff. Nur leider hat auf einmal jeder in der Mall die Idee ein Taxi nehmen zu wollen und so müssen wir uns eine halbe Stunde für ein Taxi anstellen.
 Die Fahrt geht recht fix. Dafür spricht der Fahrer ein NoNo-Small-Talk-Thema an, Religion. Aber wir schlagen uns gut und werden auch freundlich verabschiedet vom Fahrer. Puh, Glück gehabt.

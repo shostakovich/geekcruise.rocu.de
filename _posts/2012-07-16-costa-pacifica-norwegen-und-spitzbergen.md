@@ -4,19 +4,19 @@ title: 'Costa Pacifica: Norwegen und Spitzbergen – 16.07.12 (14 tägig)'
 date: 2012-08-14T20:12:40+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?page_id=642
+
 ---
 Gefahrene Distanz: 4279sm/7925km
 
 [
-<img loading="lazy" src="/assets/2012/08/gps_map_sml.jpg" alt="" title="Route der Costa Pacifica - Norwegen mit Spitzbergen"   class="alignnone size-full wp-image-723" />](/assets/2012/08/gps_map_full.jpg)
+![Route der Costa Pacifica - Norwegen mit Spitzbergen](/assets/2012/08/gps_map_sml.jpg)](/assets/2012/08/gps_map_full.jpg)
 
 Am 16.07.12 sind wir zu einer 14-tägigen Kreuzfahrt mit der Costa Pacifica von Hamburg aus aufgebrochen. Ziel war neben den Norwegischen Fjorden die Inselgruppe Spitzbergen, die nur 10° vom Nordpol entfernt ist (Spitzbergen liegt auf etwa 80° nördlicher Breite).
 
 ### 16.07.12 Hamburg
 
 
-<img loading="lazy" src="/assets/2012/08/costa_pacifica_norwegen_001.jpg" alt="" title="Cruise Terminal Hambug Altona"   />
+![Cruise Terminal Hambug Altona](/assets/2012/08/costa_pacifica_norwegen_001.jpg)
 
   * Wetter: bedeckt, 13°C
   * Seegang: leicht bewegt
@@ -39,9 +39,9 @@ Am 16.07.12 sind wir zu einer 14-tägigen Kreuzfahrt mit der Costa Pacifica von 
 ### 18.07.12 Hellesylt/Geiranger
 
 
-<img loading="lazy" src="/assets/2012/08/costa_pacifica_norwegen_002.jpg" alt="" title="Costa Pacifica im Geiranger-Fjord"   />
+![Costa Pacifica im Geiranger-Fjord](/assets/2012/08/costa_pacifica_norwegen_002.jpg)
 
-<img loading="lazy" src="/assets/2012/08/costa_pacifica_norwegen_003.jpg" alt="" title="Geiranger-Fjord"   />
+![Geiranger-Fjord](/assets/2012/08/costa_pacifica_norwegen_003.jpg)
 
   * Wetter: sonnig/bewölkt, 13°C
   * Seegang: leicht bewegt
@@ -62,7 +62,7 @@ Am 16.07.12 sind wir zu einer 14-tägigen Kreuzfahrt mit der Costa Pacifica von 
 ### 19.07.12 Seetag
 
 
-<img loading="lazy" src="/assets/2012/08/costa_pacifica_norwegen_004.jpg" alt="" title="Überschreiten des nördlichen Polarkreises"   />
+![Überschreiten des nördlichen Polarkreises](/assets/2012/08/costa_pacifica_norwegen_004.jpg)
 
   * Wetter: sonnig, 19°C
   * Seegang: leicht bewegt
@@ -73,7 +73,7 @@ Am 16.07.12 sind wir zu einer 14-tägigen Kreuzfahrt mit der Costa Pacifica von 
 ### 20.07.12 Tromso
 
 
-<img loading="lazy" src="/assets/2012/08/costa_pacifica_norwegen_005.jpg" alt="" title="Tromso - Polaria"   />
+![Tromso - Polaria](/assets/2012/08/costa_pacifica_norwegen_005.jpg)
 
   * Wetter: bedeckt, 11°C
   * Seegang: leicht bewegt
@@ -94,7 +94,7 @@ Am 16.07.12 sind wir zu einer 14-tägigen Kreuzfahrt mit der Costa Pacifica von 
 ### 21.07.12 Seetag
 
 
-<img loading="lazy" src="/assets/2012/08/costa_pacifica_norwegen_006.jpg" alt="" title="Mitternachtssonne um 00:02"   />
+![Mitternachtssonne um 00:02](/assets/2012/08/costa_pacifica_norwegen_006.jpg)
 
   * Wetter: bedeckt, 11°C
   * Seegang: bewegt
@@ -123,9 +123,9 @@ Am 16.07.12 sind wir zu einer 14-tägigen Kreuzfahrt mit der Costa Pacifica von 
 ### 22.07.12 Ny-Alesund (Spitzbergen)
 
 
-<img loading="lazy" src="/assets/2012/08/costa_pacifica_norwegen_007.jpg" alt="" title="Bei Ny Alesund - Spitzbergen"   />
+![Bei Ny Alesund - Spitzbergen](/assets/2012/08/costa_pacifica_norwegen_007.jpg)
 
-<img loading="lazy" src="/assets/2012/08/costa_pacifica_norwegen_008.jpg" alt="" title="Costa Pacifica vor Ny Alesund"   />
+![Costa Pacifica vor Ny Alesund](/assets/2012/08/costa_pacifica_norwegen_008.jpg)
 
   * Wetter: bedeckt, 6°C
   * Seegang: leicht bewegt
@@ -147,13 +147,13 @@ Am 16.07.12 sind wir zu einer 14-tägigen Kreuzfahrt mit der Costa Pacifica von 
 ### 23.07.12 Longyearbyen (Spitzbergen)
 
 
-<img loading="lazy" src="/assets/2012/08/costa_pacifica_norwegen_009.jpg" alt="" title="Gletscher auf Spitzbergen"   />
+![Gletscher auf Spitzbergen](/assets/2012/08/costa_pacifica_norwegen_009.jpg)
 
-<img loading="lazy" src="/assets/2012/08/costa_pacifica_norwegen_010.jpg" alt="" title="Longyearbyen"   />
+![Longyearbyen](/assets/2012/08/costa_pacifica_norwegen_010.jpg)
 
-<img loading="lazy" src="/assets/2012/08/costa_pacifica_norwegen_011.jpg" alt="" title="Scooter in Longyearbyen"   />
+![Scooter in Longyearbyen](/assets/2012/08/costa_pacifica_norwegen_011.jpg)
 
-<img loading="lazy" src="/assets/2012/08/costa_pacifica_norwegen_012.jpg" alt="" title="kann bis zu 220 ;)"   />
+![kann bis zu 220 ;)](/assets/2012/08/costa_pacifica_norwegen_012.jpg)
 
   * Wetter: bedeckt, 5°C
   * Seegang: bewegt
@@ -168,9 +168,9 @@ Am 16.07.12 sind wir zu einer 14-tägigen Kreuzfahrt mit der Costa Pacifica von 
 ### 24.07.12 Honningsvag (Nordkap)
 
 
-<img loading="lazy" src="/assets/2012/08/costa_pacifica_norwegen_013.jpg" alt="" title="Nordkap"   />
+![Nordkap](/assets/2012/08/costa_pacifica_norwegen_013.jpg)
 
-<img loading="lazy" src="/assets/2012/08/costa_pacifica_norwegen_014.jpg" alt="" title="Costa Pacifica in Honningsvag"   />
+![Costa Pacifica in Honningsvag](/assets/2012/08/costa_pacifica_norwegen_014.jpg)
 
   * Wetter: bedeckt, 6°C
   * Seegang: bewegt
@@ -208,7 +208,7 @@ Am 16.07.12 sind wir zu einer 14-tägigen Kreuzfahrt mit der Costa Pacifica von 
 ### 27.07.12 Andalsnes
 
 
-<img loading="lazy" src="/assets/2012/08/costa_pacifica_norwegen_015.jpg" alt="" title="Romsdal-Bahn"   />
+![Romsdal-Bahn](/assets/2012/08/costa_pacifica_norwegen_015.jpg)
 
   * Wetter: leicht bewölkt, 14°C
   * Seegang: bewegt
@@ -226,7 +226,7 @@ Am 16.07.12 sind wir zu einer 14-tägigen Kreuzfahrt mit der Costa Pacifica von 
 ### 28.07.12 Bergen
 
 
-<img loading="lazy" src="/assets/2012/08/costa_pacifica_norwegen_016.jpg" alt="" title="Bryggen"   />
+![Bryggen](/assets/2012/08/costa_pacifica_norwegen_016.jpg)
 
   * Wetter: leicht bewölkt, 18°C
   * Seegang: leicht bewegt

@@ -4,12 +4,12 @@ title: 'Adventure of the Seas: westl. Mittelmeer ab Malaga – Juni 2011'
 date: 2011-07-17T15:23:33+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?page_id=331
+
 ---
 ### Allgemein
 
 [
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_route_sommer_2011_gps_klein.jpg" alt="" title="Route Adventure of the Seas - Westliches Mittelmeer ab Malaga"   class="alignnone size-full wp-image-142" srcset="/assets/2011/06/adventure_of_the_seas_route_sommer_2011_gps_klein.jpg 606w, /assets/2011/06/adventure_of_the_seas_route_sommer_2011_gps_klein-300x220.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />](/assets/2011/06/adventure_of_the_seas_route_sommer_2011_gps_gross.jpg)
+![Route Adventure of the Seas - Westliches Mittelmeer ab Malaga](/assets/2011/06/adventure_of_the_seas_route_sommer_2011_gps_klein.jpg)](/assets/2011/06/adventure_of_the_seas_route_sommer_2011_gps_gross.jpg)
 zurückgelegte Distanz: 3.537,90 km/1.910,31 sm
 Anzahl der Gäste: 3318, davon 1500 aus Spanien, ca. 300 aus UK und Irland, einige aus USA/Kanada, daneben wenige Deutsche, Schweizer und Skandinavier
 Altersstruktur: 4-80 Jahre (überwiegend 40+, aber auch viel junges Publikum in den 20ern und 30ern)
@@ -20,12 +20,12 @@ Anreise nach Malaga
 Wetter heute: sonnig bis leicht bewölkt bei 28°C
 07:30 Aufbruch zum Flughafen
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_024.jpg" alt="" title="Flughafen München, warten auf das Boarding"   class="alignnone size-full wp-image-154" srcset="/assets/2011/06/adventure_of_the_seas_110604_024.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_024-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Flughafen München, warten auf das Boarding](/assets/2011/06/adventure_of_the_seas_110604_024.jpg)
 11:15 Abflug nach Malaga
 14:55 Ankunft in Malaga
 15:30 Transfer zum Hafen
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_007.jpg" alt="" title="Hafen mit Cruise-Terminal in Malaga"   class="alignnone size-full wp-image-143" srcset="/assets/2011/06/adventure_of_the_seas_110604_007.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_007-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Hafen mit Cruise-Terminal in Malaga](/assets/2011/06/adventure_of_the_seas_110604_007.jpg)
 15:55 Ankunft auf dem Schiff, Rundgang und einen kleinen Happen zum Essen
 16:30 Muster Drill
 17:00 Ablegen vom Schiff, Schiffshorn pustet die Ohren frei, da wir uns genau davor befinden
@@ -46,21 +46,21 @@ Valencia
 Wetter heute: sonnig bis leicht bewölkt bei 28°C
 08:30 Frühstück auf dem Zimmer – viele Teller stapeln sich zum Leer-Essen
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_026.jpg" alt="" title="Frühstück auf unserer Kabine via Zimmerservice"   class="alignnone size-full wp-image-156" srcset="/assets/2011/06/adventure_of_the_seas_110604_026.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_026-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Frühstück auf unserer Kabine via Zimmerservice](/assets/2011/06/adventure_of_the_seas_110604_026.jpg)
 10:00 Da unser Schiff im Industriehafen-Teil in Valencia anlegen wird, müssen wir ein Bustransfer-Ticket kaufen (12$ pro Person). Die Überlegung sich selber in die Innenstadt durchzuschlagen erlischt damit.
 10:30 Versuchen im Casino unser Glück, der einarmige Bandit (wie heißt der gleich auf Englisch?) schluckt das ganze Geld, irgendwie scheint doch immer die Bank zu gewinnen, wirtschaftlicher Verlust von 5$. Die Spielsucht packt mich noch nicht. Vielleicht sollte ich mal Roulette ausprobieren.
 10:50 Eis-Skaten, hierzu ist ein sogenannter Waiver auszufüllen, leider kann ich es noch immer nicht und hangle mich an der Bande entlang, um nicht hinzufallen.
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_025.jpg" alt="" title="Eis-Skaten auf dem Schiff"   class="alignnone size-full wp-image-155" srcset="/assets/2011/06/adventure_of_the_seas_110604_025.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_025-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Eis-Skaten auf dem Schiff](/assets/2011/06/adventure_of_the_seas_110604_025.jpg)
 11:50 Essen im Windjammer, ich habe einen Salat genommen, der Rest überzeugt mich nicht so recht, es ist doch alles sehr einfach vom Niveau her (Hamburger oder Hot-Dog zum Selberbauen, Reispfanne, Fish&Chips, Pommes, &#8230;). Eine Wok-Station oder ein anderes besonderes High-Light sucht man leider vergebens.
 
 
 
 12:30 Transfer in die Altstadt von Valencia, werden an der Porta de la Mar rausgelassen, hier ist dann auch wieder der Abfahrtsort für die Rückfahrt. Nach einer kurzen Orientierung sind wir zu Fuss in der Altstadt unterwegs. In der Nähe von der Porta de la Mar ist auch die Touristen-Information bei der man kostenlose Karten für einen Stadtbummel mitnehmen kann.
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_032.jpg" alt="" title="Valencia Altstadt"   class="alignnone size-full wp-image-167" srcset="/assets/2011/06/adventure_of_the_seas_110604_032.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_032-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Valencia Altstadt](/assets/2011/06/adventure_of_the_seas_110604_032.jpg)
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_033.jpg" alt="" title="Valencia Altstadt"   class="alignnone size-full wp-image-168" srcset="/assets/2011/06/adventure_of_the_seas_110604_033.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_033-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Valencia Altstadt](/assets/2011/06/adventure_of_the_seas_110604_033.jpg)
 Wir schauen uns ein paar Kirchen und nette alte Gassen in der Altstadt an und brechen dann in Richtung der Ciudad de les Artes y las Ciencias. Hierzu läuft man am besten in dem ehemaligen Flussbett, das zu einem Park umgestaltet worden ist. Es gibt auch die Möglichkeit in dem Park Fahrräder auszuleihen. Aber man kann die Distanzen auch gut zu Fuss zurücklegen (solange die Temperaturen nicht zu heiß sind).
 
 Nachdem wir uns die interessanten Gebäude der Ciudad de les Artes y las Ciencias angeschaut hatten, wollten wir noch in das Einkaufszentrum, dass sich gegenüber erstreckt. Leider hatte es am Sonntag nicht offen, in Spanien ist also kein 24/7 Shopping möglich. So begeben wir ohne große Einkaufungen wieder auf den Rückweg.
@@ -93,26 +93,26 @@ Wetter heute: bis Mittag bewölkt, kurzer Schauer, um die 26°C, dann sonnig bis
 07:45 gehen von Bord. Leider ist es heute morgen ein wenig regnerisch, wir passieren zu Fuss zwei andere Schiffe, die Sovereign von Pullmantur Cruises und die Regent Seven Seas. Hier steigen wir in einen Shuttle Bus der uns zum Ausgang vom Hafen bringt.
 08:41 die Zugtickets (B.I.R.G.-Ticket) sind am Schalter gekauft (9€) worden und unser Zug Richtung Roma Termini fährt ein. Hier in Civitaveccia wird es richtig voll.
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_027.jpg" alt="" title="Civitavecchia - Bahnhof"   class="alignnone size-full wp-image-157" srcset="/assets/2011/06/adventure_of_the_seas_110604_027.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_027-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Civitavecchia - Bahnhof](/assets/2011/06/adventure_of_the_seas_110604_027.jpg)
 09:35 wir kommen in San Pietro (Bhf) an und laufen zum Petersplatz. Ein wenig tropft es vom Himmel, aber wir kommen trockenen Fußes in den Petersdom.
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_028.jpg" alt="" title="Bahnhof Roma - San Pietro "   class="alignnone size-full wp-image-158" srcset="/assets/2011/06/adventure_of_the_seas_110604_028.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_028-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Bahnhof Roma - San Pietro ](/assets/2011/06/adventure_of_the_seas_110604_028.jpg)
 10:30 besonders empfehlenswert aber recht anstrengend ist der Aufstieg auf die Kuppel des Domes (Eintritt 5€ ohne Aufzug/mit +2€). Von hier hat man einen fantastischen Blick über die Stadt und kann einige tolle Baudenkmäler ausmachen, wie z.B. den Pantheon und die Engelsburg
 
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_016.jpg" alt="" title="Petersdom"   class="alignnone size-full wp-image-144" srcset="/assets/2011/06/adventure_of_the_seas_110604_016.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_016-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Petersdom](/assets/2011/06/adventure_of_the_seas_110604_016.jpg)
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_019.jpg" alt="" title="Petersdom"   class="alignnone size-full wp-image-145" srcset="/assets/2011/06/adventure_of_the_seas_110604_019.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_019-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Petersdom](/assets/2011/06/adventure_of_the_seas_110604_019.jpg)
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_020.jpg" alt="" title="Blick von Petersdom auf Rom"   class="alignnone size-full wp-image-146" srcset="/assets/2011/06/adventure_of_the_seas_110604_020.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_020-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Blick von Petersdom auf Rom](/assets/2011/06/adventure_of_the_seas_110604_020.jpg)
 11:15 wir sind auf dem Weg zur Engelsburg und schauen uns die umgebenden Grabenanlagen an.
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_021.jpg" alt="" title="Engelsburg"   class="alignnone size-full wp-image-147" srcset="/assets/2011/06/adventure_of_the_seas_110604_021.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_021-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Engelsburg](/assets/2011/06/adventure_of_the_seas_110604_021.jpg)
 12:00 durch die wundervollen Gässchen laufen wir Richtung Pantheon. Da der Pantheon wie der Petersdom eine Kirche ist, ist auch hier der Eintritt frei. Wir lassen uns von den Besuchermassen nicht abschrecken und entdecken einen freien Platz in Mitten des Kuppelbaus, von dem wir die Einzelheiten genauer anschauen können.
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_022.jpg" alt="" title="Pantheon"   class="alignnone size-full wp-image-148" srcset="/assets/2011/06/adventure_of_the_seas_110604_022.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_022-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Pantheon](/assets/2011/06/adventure_of_the_seas_110604_022.jpg)
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_023.jpg" alt="" title="Pantheon"   class="alignnone size-full wp-image-149" srcset="/assets/2011/06/adventure_of_the_seas_110604_023.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_023-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Pantheon](/assets/2011/06/adventure_of_the_seas_110604_023.jpg)
 Wir machen uns recht früh wieder auf den Rückweg und nehmen dann um
 13:59 den Zug zurück nach Civitaveccia.
 14:55 kommen wir in Civitaveccia an. Wir bummeln noch ein wenig durch die Stadt auf der Suche nach einem Supermarkt und werden dann in der Nähe vom McDonalds kurz vor dem Hafeneingang fündig. Hier kaufen wir uns Wasser für die nächsten Tage. Mit dem Bus-Shuttle geht es zurück auf das Schiff.
@@ -131,20 +131,20 @@ der heutige Tag beginnt ähnlich früh, wie der letzte um
 06:50, wir essen im Windjammer ein paar Kleinigkeiten und machen uns dann auf den Weg.
 08:15 Mit dem Shuttle-Bus werden wir zum Piazza Grande in Livorno gebracht. Mit der Bus Linie 1 fahren wir dann weiter zum Bahnhof (Stazzione).
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_029.jpg" alt="" title="Livorno Bahnhof"   class="alignnone size-full wp-image-159" srcset="/assets/2011/06/adventure_of_the_seas_110604_029.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_029-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Livorno Bahnhof](/assets/2011/06/adventure_of_the_seas_110604_029.jpg)
 
 Wir fahren dann über Pisa Centrale nach Pisa Rossario.
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_030.jpg" alt="" title="Bahnhof Pisa Rossario"   class="alignnone size-full wp-image-160" srcset="/assets/2011/06/adventure_of_the_seas_110604_030.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_030-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Bahnhof Pisa Rossario](/assets/2011/06/adventure_of_the_seas_110604_030.jpg)
 Von hier aus ist es nur ein kurzer Fussweg zum Schiefen Turm von Pisa. Ein wirklich fantastischer Anblick auf das Gebäude-Ensemble.
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_034.jpg" alt="" title="Warum nicht mal Leute fotografieren, die die &quot;originelle&quot; Idee haben, sich im Bild gegen den schiefen Turm zu lehnen?"   class="alignnone size-full wp-image-169" srcset="/assets/2011/06/adventure_of_the_seas_110604_034.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_034-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Warum nicht mal Leute fotografieren, die die &quot;originelle&quot; Idee haben, sich im Bild gegen den schiefen Turm zu lehnen?](/assets/2011/06/adventure_of_the_seas_110604_034.jpg)
 
 Leider haben wir den Fehler gemacht und nicht schon vorher eine Fahrkarte bis nach Lucca gekauft. Der Fahrkarten-Automat an der Station Rossario ist nur auf italienisch erhältlich und spuckt jeden Euroschein wieder aus, wechseln tut er auch nicht und Münzen sind ihm auch fremd. Dank der Hilfe einer netten jungen Frau haben wir doch noch unsere Tickets bekommen und können unsere Tour nach Lucca fortsetzen.
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_001.jpg" alt="" title="Pisa - Field of Miracles"   class="alignnone size-full wp-image-150" srcset="/assets/2011/06/adventure_of_the_seas_110604_001.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_001-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Pisa - Field of Miracles](/assets/2011/06/adventure_of_the_seas_110604_001.jpg)
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_002.jpg" alt="" title="Lucca "   class="alignnone size-full wp-image-151" srcset="/assets/2011/06/adventure_of_the_seas_110604_002.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_002-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Lucca ](/assets/2011/06/adventure_of_the_seas_110604_002.jpg)
 Der Bahnhof und die schöne Altstadt von Lucca sind gleich nebeneinander. Die Altstadt, die von einer einzigartigen gut erhaltenen Stadtmauer umgeben ist, lässt sich gut zu Fuß oder noch besser mit dem Fahrrad erkunden. Wir haben uns für die Fuß-Variante entschiede, streifen durch die malerischen Gassen und wunderbaren Plätze und entdecken viele gut erhaltene Kirchen und Türme. Nach einem kurzen Regen- und Gewitterschauer kehren wir wieder Richtung Bahnhof zurück.
 Via Pisa Centrale fahren wir dann nach Livorno zurück. Mit dem Bus 2 fahren wir wieder zum Piazza Grande (ein Tipp: den Fahrschein bei den Tabbacci-Läden vorher kaufen, dass spart 50Cent im Vergleich zum Buskauf).
 Nach einen kleinen Eis geht es von hier aus weiter mit dem Bus-Shuttle zum Hafen.
@@ -154,7 +154,7 @@ Bei dem Whitney Houston Song &#8222;I will always love you&#8220; zeigt eine der
 23:30 auf zum Midnight-Buffet. Das findet heute wegen des starken Windes nicht am Pool sondern in der Royal Promenade statt. Die Leute drängen sich mal wieder sehr stark. Richtige Highlights gibt es dann leider doch nicht. Drei Stationen zum Essen gibt es und zu laute Live-Musik. Ich hatte mich auf leckere Schoko-Früchte gefreut, doch es gibt nur Standard-Kuchen und Fruchtspieße ohne Schoko :/
 Das Gedränge und die laute Musik vertreiben uns wieder.
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_035.jpg" alt="" title="Zum Midnight Buffet ist kein Durchkommen mehr auf der Royal Promenade"   class="alignnone size-full wp-image-170" srcset="/assets/2011/06/adventure_of_the_seas_110604_035.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_035-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Zum Midnight Buffet ist kein Durchkommen mehr auf der Royal Promenade](/assets/2011/06/adventure_of_the_seas_110604_035.jpg)
 
 Also ab ins Bett.
 
@@ -167,12 +167,12 @@ Wetter: am Morgen leicht bewölkt, dann sonnig bei 22°C
 08:15 nach einem kleinen Frühstück im Windjammer geht es zu dem einzigen Ausflug, den wir direkt über Royal Caribbean gebucht haben, es soll zu den sogenannten Calanches gehen, einer Granit-Felsen-Landschaft im Norden von Ajaccio.
 Wir sollen uns in dem Lyric Theater einfinden, hier werden alle Ausflugsgäste nach den Ausflügen sortiert. Wir sind in der Gruppe Nummer 3. Gegen 08:30 geht es dann von Bord zum Schiff.
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_036.jpg" alt="" title="heute mal ein Bus-Ausflug"   class="alignnone size-full wp-image-171" srcset="/assets/2011/06/adventure_of_the_seas_110604_036.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_036-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![heute mal ein Bus-Ausflug](/assets/2011/06/adventure_of_the_seas_110604_036.jpg)
 
 Die Abfahrt verzögert sich etwas, weil ein spanischer Herr überhaupt nicht damit einverstanden ist, dass der Ausflug in Englisch und Spanisch gehalten wird. Er wird an diesem Ausflug nicht teilnehmen. Ein ziemlich großer Fehler, wie wir zum Ende hin des Ausfluges meinen. Ohne den älteren Herren geht es mit einem wenig besetzten Bus dann doch endlich los. Je weiter wir die Stadt hinter uns lassen, desto schöner wird auch das Panorama, das sich einem jenseits des Busfensters bietet (Tipp: am besten auf die linke Seite setzen, hier gibt es am meisten während der Fahrt zu sehen).
 
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_037.jpg" alt="" title="erste Fotostopps"   class="alignnone size-full wp-image-172" srcset="/assets/2011/06/adventure_of_the_seas_110604_037.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_037-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![erste Fotostopps](/assets/2011/06/adventure_of_the_seas_110604_037.jpg)
 Wir legen mehrere Stopps ein, um sich die Beine zu vertreten oder um Fotos zu machen. Bei diesem wunderbaren Postkarten-Wetter schießen wir dann auch sehr viele Fotos.
 Gegen Mittag machen wir dann an einem Restaurant halt. Es gibt ein vier-Gänge-Menü, bestehend aus einer Leberwurst-Vorspeise, dem Hauptgang mit zartem Schweinefleisch mit Kartoffeln, dann eine kleine Käse-Platte und als Dessert einen Erdbeer-Buttermilch-Kuchen.
 
@@ -180,14 +180,14 @@ Gegen Mittag machen wir dann an einem Restaurant halt. Es gibt ein vier-Gänge-M
 
 Anschließend ging es über weitere verschlängelte Bergstraßen zurück zum Schiff. Unterwegs sehen wir noch kleine Gruppen von freilebenden Hausschweinen.
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_038.jpg" alt="" title="freilebenden Hausschwein-Ferkelchen"   class="alignnone size-full wp-image-173" srcset="/assets/2011/06/adventure_of_the_seas_110604_038.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_038-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![freilebenden Hausschwein-Ferkelchen](/assets/2011/06/adventure_of_the_seas_110604_038.jpg)
 
 Knapp nach der Alle-Mann-An-Bord-Zeit um 16:30 kommen wir mit dem Bus an der Pier an. Wir sind so ziemlich die letzten Gäste. Kurz danach beginnt das Losmachen des Schiffes. Gegen 17:10 legen wir dann schließlich ab.
 Der Ausflug war mit etwa 100€ pro Person recht teuer. Er enthielt allerdings auch ein Mittagsmenü mit Getränken. Die fantastische Landschaft entschädigen auf jeden Fall. Korsika hat also weit mehr zu bieten, als die Bonaparte-Statuen in Ajaccio.
 18:45 heute ist wieder Formaler-Abend. In Schale geworfen, geht es wieder in das Hauptrestaurant.
 
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_039.jpg" alt="" title="Beatles Show im Lyric Theater"   class="alignnone size-full wp-image-174" srcset="/assets/2011/06/adventure_of_the_seas_110604_039.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_039-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Beatles Show im Lyric Theater](/assets/2011/06/adventure_of_the_seas_110604_039.jpg)
 Etwas knapp verpassen wir die erste Vorführung der Beatles-Show um 20:00 und werden diese dann um 22:00 nachholen. Anstelle der ersten Show-Vorführung erkundigen wir uns am Reception-Schalter, wie wir die obligatorischen Trinkgelder begleichen können. Hierzu können wir ein Formular ausfüllen, mit dem die Trinkgelder über unser Bordkonto dann beglichen werden.
 
 22:00 wir verfolgen die zweite Aufführung der Beatles-Show im Lyric-Theater. Die Menge tobt bei all den Klassikern. Es gibt sogar Zugaben und Overtionen.
@@ -200,11 +200,11 @@ Schlafen heute lange aus und gehen erst gegen 10:00 ins Windjammer zum Frühstü
 Den weiteren Vormittag verbringen wir ruhig mit Lesen auf dem Balkon oder mit Kaffee-Trinken im Café-Promenade.
 
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_040.jpg" alt="" title="Inline-Skating Versuche"   class="alignnone size-full wp-image-175" srcset="/assets/2011/06/adventure_of_the_seas_110604_040.jpg 455w, /assets/2011/06/adventure_of_the_seas_110604_040-225x300.jpg 225w" sizes="(max-width: 455px) 85vw, 455px" />
+![Inline-Skating Versuche](/assets/2011/06/adventure_of_the_seas_110604_040.jpg)
 13:00 wir probieren Inline-Skaten aus. Nach vielen Jahren stehe ich wieder auf diesen instabilen Rollenschuhen. Wir drehen viele Runden in dem gepolsterten Parcours und machen uns danach wieder auf zum Windjammer zum Mittagessen. Leider wiederholt sich das gleiche Spiel von heute Morgen noch einmal, wieder sind viel zu viele Leute hungrig und wollen zur gleichen Zeit wie wir Mittagessen.
 
 
-<img loading="lazy" src="/assets/2011/06/adventure_of_the_seas_110604_031.jpg" alt="" title="Eis-Zapf-Anlage"   class="alignnone size-full wp-image-166" srcset="/assets/2011/06/adventure_of_the_seas_110604_031.jpg 606w, /assets/2011/06/adventure_of_the_seas_110604_031-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Eis-Zapf-Anlage](/assets/2011/06/adventure_of_the_seas_110604_031.jpg)
 Am Nachmittag entdecken wir dann endlich den Eisautomaten, an dem man sich selbst Soft-Eis zapfen kann. Wir holen die ganzen verpassten Eis-Essungen der vergangenen Tage an diesem Nachmittag nach 😉
 Kurz darauf sehen wir Delfine neben dem Schiff schwimmen. Nicht nur ein oder zwei, es müssen ein paar Dutzende sein (unser Schiff müsste zu dem Zeitpunkt ca. 100km südlich von Ibiza sein).
 Den Nachmittag lassen wir ruhig ausklingen und nach dem Abendessen schauen wir uns noch die Abendshow an. Heute treten die Los Gauchos aus Las Vegas auf. Nach der ganz netten Show verabschiedet sich die Crew und der Cruise-Direktor von den Gästen.
@@ -222,46 +222,46 @@ Um 8:50 finden wir uns im Lyric-Theater ein. Gegen 09:10 werden wir dann von Bor
 
 #### Sachen, die uns positiv aufgefallen sind:
 
--die sportlichen Angebote haben uns alle gut gefallen, besonders hervorzuheben sind das Klettern und das Ice-Skating
--auch die Shows sind hervorragend, hier hat uns u.a. die Ice-Show sehr gut gefallen (kleiner Tipp: hier besser eine lange Hose und einen Pullover anziehen, es ist hier recht kühl). Bei den Shows im Lyric-Theater ist sogar die Musik live.
--die Ausflüge sind gut organisiert, angefangen beim Sortieren der Teilnehmer bis zur Auswahl der Tour-Unternehmen (z.B. gute Sprachkenntnisse). Einziges Manko, die Preise sind sehr hoch.
+* die sportlichen Angebote haben uns alle gut gefallen, besonders hervorzuheben sind das Klettern und das Ice-Skating
+* auch die Shows sind hervorragend, hier hat uns u.a. die Ice-Show sehr gut gefallen (kleiner Tipp: hier besser eine lange Hose und einen Pullover anziehen, es ist hier recht kühl). Bei den Shows im Lyric-Theater ist sogar die Musik live.
+* die Ausflüge sind gut organisiert, angefangen beim Sortieren der Teilnehmer bis zur Auswahl der Tour-Unternehmen (z.B. gute Sprachkenntnisse). Einziges Manko, die Preise sind sehr hoch.
 
 #### Sachen, die uns nicht gefallen:
 
--die Kellner sind darauf aus, ihr Trinkgeld zu maximieren, da ihr normales Gehalt, das ihnen die Reederei zahlt z.T. nur rund 50$ im Monat beträgt
--die laute Musik (am Hauptpool und der Royal Promenade) ist oft unerträglich laut
--die Preise sind für viele Dinge recht hoch, eine Fotografie kostet 24$, ein Bier (0,5l) rund 7,50$, ein Ausflug nach Rom (ohne Reiseleitung, auf eigene Faust, nur die Transfers sind inkludiert) kostet um die 90$ (verglichen mit 9€, die das Zugticket kostet).
--verschimmeltes Essen sollte den Gästen nicht mehr angeboten werden (Früchte-Teller beim Frühstück via Zimmerservice war verschimmelt)
--die Tischdecken und Stoffservietten sind hin und wieder zerknittert oder beschmutzt (obwohl frisch)
--das Essen könnte besser sein (das Windjammer ist eher auf Mensa oder Kantinen-Niveau), auch im Hauptrestaurant geht es auch eher mäßig zu, der Fisch hatte schon einmal Gräten und die Speisen sind kaum gewürzt
--dauernde Shopping-Events, angefangen bei den Durchsagen: &#8222;Bingo – Bingo – Bingo&#8220;, hin zu den Ramschverkäufen auf der Royal Promenade
+* die Kellner sind darauf aus, ihr Trinkgeld zu maximieren, da ihr normales Gehalt, das ihnen die Reederei zahlt z.T. nur rund 50$ im Monat beträgt
+* die laute Musik (am Hauptpool und der Royal Promenade) ist oft unerträglich laut
+* die Preise sind für viele Dinge recht hoch, eine Fotografie kostet 24$, ein Bier (0,5l) rund 7,50$, ein Ausflug nach Rom (ohne Reiseleitung, auf eigene Faust, nur die Transfers sind inkludiert) kostet um die 90$ (verglichen mit 9€, die das Zugticket kostet).
+* verschimmeltes Essen sollte den Gästen nicht mehr angeboten werden (Früchte-Teller beim Frühstück via Zimmerservice war verschimmelt)
+* die Tischdecken und Stoffservietten sind hin und wieder zerknittert oder beschmutzt (obwohl frisch)
+* das Essen könnte besser sein (das Windjammer ist eher auf Mensa oder Kantinen-Niveau), auch im Hauptrestaurant geht es auch eher mäßig zu, der Fisch hatte schon einmal Gräten und die Speisen sind kaum gewürzt
+* dauernde Shopping-Events, angefangen bei den Durchsagen: &#8222;Bingo – Bingo – Bingo&#8220;, hin zu den Ramschverkäufen auf der Royal Promenade
 
 * * *
 
 ### Spar-Tipps:
 
 Wie kann man Geld an Bord sparen:
--Wasser selber kaufen (an Land)
+* Wasser selber kaufen (an Land)
 z.B. 6&#215;1,5l für 3€, statt 4$ für 1l Evian (also 36$ statt 3€ für 9l Wasser)
--Ausflüge selbst organisieren
+* Ausflüge selbst organisieren
 z.B. Rom von Civitaveccia für 9€ mit dem Zug, statt 89$ mit dem Bus/Zug über die Reederei gebucht
--statt teures Ben&Jerrys-Eis (das wohl schon Monate vor sich hin oxidiert) lieber sich selbst ein frisches Soft-Eis auf dem Pool-Deck zapfen
+* statt teures Ben&Jerrys-Eis (das wohl schon Monate vor sich hin oxidiert) lieber sich selbst ein frisches Soft-Eis auf dem Pool-Deck zapfen
 
 ### um welche Ausgaben kommt man nicht drumherum?
 
--pro Tag werden 9,75$ Trinkgelder pro Person berechnet, bei einer 7-Nächte-Kreuzfahrt landet man bei 68,25$
--daneben liegen die Schiffe oft in Industriehäfen, will man in die Stadt (z.B. um von dort zum nächsten Bahnhof zu kommen) muss man ein Ticket für den Bus-Shuttle kaufen. Hier sind um die 8$ (für Livorno) bzw. 12$ für Valencia zu veranschlagen.
--die anderen Ausgaben sind meiner Meinung nach optional: z.B. der Fotograf, Casino, Landausflüge, Getränke, aufpreispflichtige Restaurants, Shops, Spa-Anwendungen, Bingo, Art-Auctions
+* pro Tag werden 9,75$ Trinkgelder pro Person berechnet, bei einer 7-Nächte-Kreuzfahrt landet man bei 68,25$
+* daneben liegen die Schiffe oft in Industriehäfen, will man in die Stadt (z.B. um von dort zum nächsten Bahnhof zu kommen) muss man ein Ticket für den Bus-Shuttle kaufen. Hier sind um die 8$ (für Livorno) bzw. 12$ für Valencia zu veranschlagen.
+* die anderen Ausgaben sind meiner Meinung nach optional: z.B. der Fotograf, Casino, Landausflüge, Getränke, aufpreispflichtige Restaurants, Shops, Spa-Anwendungen, Bingo, Art-Auctions
 
 * * *
 
 ### Für wen ist dieses Schiff geeignet?
 
--wenn Sie unempfindlich gegen Lärm sind (laute Musik, viele Ansagen, laute spanische Gäste)
--wenn Sie nicht höchste Ansprüche an das Essen stellen
--wenn Sie aufwendige Shows mögen
--Sie sportlich aktiv sind oder neue Sachen ausprobieren wollen (z.B. Klettern oder Eislaufen)
--Sie Handtuchtiere auf ihrem Bett mögen
--sich nicht daran stören, dass Trinkgelder und das Trinken nicht inkludiert sind
--Sie der englischen oder spanischen Sprache mächtig sind
--Sie sich nicht an den teuren Preisen für Fotos, Getränke und Ausflüge stören oder diese eben selbst organisieren können
+* wenn Sie unempfindlich gegen Lärm sind (laute Musik, viele Ansagen, laute spanische Gäste)
+* wenn Sie nicht höchste Ansprüche an das Essen stellen
+* wenn Sie aufwendige Shows mögen
+* Sie sportlich aktiv sind oder neue Sachen ausprobieren wollen (z.B. Klettern oder Eislaufen)
+* Sie Handtuchtiere auf ihrem Bett mögen
+* sich nicht daran stören, dass Trinkgelder und das Trinken nicht inkludiert sind
+* Sie der englischen oder spanischen Sprache mächtig sind
+* Sie sich nicht an den teuren Preisen für Fotos, Getränke und Ausflüge stören oder diese eben selbst organisieren können

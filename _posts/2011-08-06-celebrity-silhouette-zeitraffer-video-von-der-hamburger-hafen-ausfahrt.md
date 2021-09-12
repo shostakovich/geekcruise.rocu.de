@@ -4,7 +4,7 @@ title: 'Celebrity Silhouette: Zeitraffer-Video von der Hamburger-Hafen-Ausfahrt'
 date: 2011-08-06T12:35:14+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?p=435
+
 permalink: /2011/08/celebrity-silhouette-zeitraffer-video-von-der-hamburger-hafen-ausfahrt/
 categories:
   - Blog

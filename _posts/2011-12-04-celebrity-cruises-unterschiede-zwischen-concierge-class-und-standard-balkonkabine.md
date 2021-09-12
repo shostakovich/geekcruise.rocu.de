@@ -4,7 +4,7 @@ title: 'Celebrity Cruises – Unterschiede zwischen Concierge Class und Standard
 date: 2011-12-04T11:13:30+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?p=479
+
 permalink: /2011/12/celebrity-cruises-unterschiede-zwischen-concierge-class-und-standard-balkonkabine/
 categories:
   - Blog
@@ -16,28 +16,28 @@ Dabei sind uns folgende Unterschiede aufgefallen:
 
 ### Concierge-Class:
 
--größerer Balkon, mit Fuß-Stütze
--Kanapes am Nachmittag
--Früchtekorb jeden Tag (Banane, Weintrauben, Apfel/Birne – Aldi-Qualität)
--Sekt auf der Kabine (einmalig zu Beginn der Kreuzfahrt)
--etwas größere Frühstücksauswahl bei Kabinenservice (z.B. frischgepresster Orangensaft)
--Bademäntel (bessere Qualität als Standard-Balkonkabine)
--größere Handtücher
--flauschiger Badvorleger
--zur Ausleihe: extra-großer Schirm, Fernglas
--bessere Lage der Kabine
--bevorzugte Tischwahl
--Kabinenpersonal achtet auf mehr Details
--Kabinen sind in der Regel auf höheren Decks gelegen
+* größerer Balkon, mit Fuß-Stütze
+* Kanapes am Nachmittag
+* Früchtekorb jeden Tag (Banane, Weintrauben, Apfel/Birne – Aldi-Qualität)
+* Sekt auf der Kabine (einmalig zu Beginn der Kreuzfahrt)
+* etwas größere Frühstücksauswahl bei Kabinenservice (z.B. frischgepresster Orangensaft)
+* Bademäntel (bessere Qualität als Standard-Balkonkabine)
+* größere Handtücher
+* flauschiger Badvorleger
+* zur Ausleihe: extra-großer Schirm, Fernglas
+* bessere Lage der Kabine
+* bevorzugte Tischwahl
+* Kabinenpersonal achtet auf mehr Details
+* Kabinen sind in der Regel auf höheren Decks gelegen
 
 ### was bietet auch die Standard-Balkonkabine:
 
--einfachere Bademäntel
--großer 32“LCD-TV mit interaktivem Menü (in beiden Klassen identisch, ebenso das verfügbare VOD-Programm)
--umfangreiches Frühstücksmenu für Zimmerservice (mit verschiedenen Omeletts, French Toast, Pancakes, Bagels, Muffins, Früchten, Tees, Kaffee, &#8230;)
--große Couch
--Kabine ansonsten genauso eingerichtet, wie Concierge-Class (gleiches Bett, Design, Schrank, Bad)
--zur Ausleihe: Standard-Regenschirm
+* einfachere Bademäntel
+* großer 32“LCD-TV mit interaktivem Menü (in beiden Klassen identisch, ebenso das verfügbare VOD-Programm)
+* umfangreiches Frühstücksmenu für Zimmerservice (mit verschiedenen Omeletts, French Toast, Pancakes, Bagels, Muffins, Früchten, Tees, Kaffee, &#8230;)
+* große Couch
+* Kabine ansonsten genauso eingerichtet, wie Concierge-Class (gleiches Bett, Design, Schrank, Bad)
+* zur Ausleihe: Standard-Regenschirm
 
 ### Fazit:
 

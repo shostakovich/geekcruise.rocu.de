@@ -4,7 +4,6 @@ title: 'Zug-Kreuzfahrt in Japan 2018/2019 – Meine Top5-Tipps'
 date: 2019-01-11T19:20:50+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?p=1493
 permalink: /2019/01/zug-kreuzfahrt-in-japan-2018-2019-meine-top5-tipps/
 categories:
   - Blog
@@ -13,11 +12,12 @@ tags:
   - Japan
 ---
 
-<img loading="lazy"   src="/assets/2019/01/IMG_20181225_194420.jpg" alt="" class="wp-image-1517" srcset="/assets/2019/01/IMG_20181225_194420.jpg 800w, /assets/2019/01/IMG_20181225_194420-300x225.jpg 300w, /assets/2019/01/IMG_20181225_194420-768x576.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
+![](/assets/2019/01/IMG_20181225_194420.jpg)
 
-<div id="hinweisbox">
-  #### Zug-Kreuzfahrt durch Japan #### <br /> Nach über 30 Kreuzfahrten habe ich Japan als ein neues besonderes Reiseziel für mich entdeckt. Anstatt mit dem Kreuzfahrtschiff zu reisen, bietet es sich aus meiner Sicht viel eher an, das Land mit dem Zug zu erkunden – sozusagen in einer Art Zugkreuzfahrt. Denn nirgendwo wird man pünktlicher und landgebunden schneller mit dem Zug von A nach B gebracht. Und dank besonderer Angebote für ausländische Touristen, reist man mit der Bahn häufig auch sehr preiswert. In einer Artikelserie möchte ich auf das Land der aufgehenden Sonne näher eingehen.
-</div>
+**Zug-Kreuzfahrt durch Japan**
+
+Nach über 30 Kreuzfahrten habe ich Japan als ein neues besonderes Reiseziel für mich entdeckt. Anstatt mit dem Kreuzfahrtschiff zu reisen, bietet es sich aus meiner Sicht viel eher an, das Land mit dem Zug zu erkunden – sozusagen in einer Art Zugkreuzfahrt. Denn nirgendwo wird man pünktlicher und landgebunden schneller mit dem Zug von A nach B gebracht. Und dank besonderer Angebote für ausländische Touristen, reist man mit der Bahn häufig auch sehr preiswert. In einer Artikelserie möchte ich auf das Land der aufgehenden Sonne näher eingehen.
+
 
 ## **Meine Top5-Tipps für&nbsp;eine&nbsp;gelungene&nbsp;Japan-Reise**
 
@@ -32,6 +32,6 @@ tags:
 Convenience Stores wie _7-Eleven_ oder _FamilyMart_ sind in mehrfacher Hinsicht mega praktisch: Hier findest du preiswertes Essen und Trinken, sowie Geldautomaten und kostenloses Wifi. Ebenso kannst du hier deinen Verpackungsmüll entsorgenm, den du mit deiner Plastiktüte gesammelt hast. Getränke-Automaten halten für dich kalte und warme Getränke an jeder Ecke bereit.
 
 
-<img loading="lazy"   src="/assets/2019/01/IMG_20190105_182355x.jpg" alt="" class="wp-image-1516" srcset="/assets/2019/01/IMG_20190105_182355x.jpg 800w, /assets/2019/01/IMG_20190105_182355x-300x202.jpg 300w, /assets/2019/01/IMG_20190105_182355x-768x516.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
+![](/assets/2019/01/IMG_20190105_182355x.jpg)
 
 5.) Beachte das Doppelbetten in Business-Hotels sehr schmal sind (120cm). Daher solltest du dich mit deinem Reisepartner sehr gut verstehen, wenn du u. a. bei APA und Tokyu Stay buchst. Im Gegenzug sind diese Hotels sehr preiswert (ab 45€ pro Nacht für 2 Personen).

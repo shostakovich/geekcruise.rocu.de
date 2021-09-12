@@ -4,7 +4,7 @@ title: 'Vergleich der Concierge Class 2011 – 2017'
 date: 2017-01-15T15:44:08+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?p=1462
+
 permalink: /2017/01/vergleich-der-concierge-class-2011-2017/
 categories:
   - Blog

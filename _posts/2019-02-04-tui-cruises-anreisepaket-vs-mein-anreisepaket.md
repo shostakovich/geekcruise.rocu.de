@@ -4,7 +4,7 @@ title: 'TUI Cruises: Anreisepaket vs. Mein Anreisepaket'
 date: 2019-02-04T20:40:36+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?p=1524
+
 permalink: /2019/02/tui-cruises-anreisepaket-vs-mein-anreisepaket/
 categories:
   - Blog
@@ -23,7 +23,7 @@ Diesen stolzen Preis kann man doch leicht unterbieten oder?
 Na klar und ob. Ich zeige Dir sogar, daß man mit etwa dem gleichen Geld sich zusätzlich auch ein tolles Vor- und Nachprogramm zaubern kann. Und damit noch mehr vom Urlaub hat.
 
 
-<img loading="lazy"   src="/assets/2019/02/IMG_20170109_160319_441-1024x1024.jpg" alt="" class="wp-image-1532" srcset="/assets/2019/02/IMG_20170109_160319_441-1024x1024.jpg 1024w, /assets/2019/02/IMG_20170109_160319_441-150x150.jpg 150w, /assets/2019/02/IMG_20170109_160319_441-300x300.jpg 300w, /assets/2019/02/IMG_20170109_160319_441-768x768.jpg 768w, /assets/2019/02/IMG_20170109_160319_441-1200x1200.jpg 1200w, /assets/2019/02/IMG_20170109_160319_441.jpg 1290w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /> *Mein Schiff 3 in Dubai Hafen*
+![](/assets/2019/02/IMG_20170109_160319_441-1024x1024.jpg) *Mein Schiff 3 in Dubai Hafen*
 
 Schauen wir uns die einzelnen Posten an, die ich selbst einzeln gebucht habe: (da ich Singapur schon gut kenne und Bangkok noch nicht, wollte ich mir noch vor&nach der Kreuzfahrt Bangkok näher anschauen, deswegen geht der Hauptflug nach Bangkok und nicht Singapur)
 

@@ -4,7 +4,7 @@ title: Rabatte und Clubmitgliedschaften bei Kreuzfahrtgesellschaften
 date: 2012-04-30T14:28:55+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?p=592
+
 permalink: /2012/04/rabatte-und-clubmitgliedschaften-bei-kreuzfahrtgesellschaften/
 categories:
   - Blog
@@ -13,7 +13,7 @@ Welche gibt es und was gibt es zu beachten?
 
 ### Celebrity Cruises
 
-Club: Captains Club, keine nennenswerten Vorteile, siehe [Link](http://geekcruise.de/2011/12/celebrity-cruises-welche-vorteile-bietet-der-captains-club/)
+Club: Captains Club, keine nennenswerten Vorteile, siehe [Link](/2011/12/celebrity-cruises-welche-vorteile-bietet-der-captains-club/)
 
 weitere Rabatte:
 

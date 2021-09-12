@@ -4,7 +4,7 @@ title: 'Arbeiten an Bord eines Kreuzfahrtschiffes – TUI Cruises'
 date: 2012-04-08T22:53:47+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?p=571
+
 permalink: /2012/04/arbeiten-bord-eines-kreuzfahrtschiffes-tui-cruises/
 categories:
   - Blog

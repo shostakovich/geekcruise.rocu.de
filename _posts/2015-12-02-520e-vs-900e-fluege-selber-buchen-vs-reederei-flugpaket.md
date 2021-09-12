@@ -4,7 +4,7 @@ title: 520€ vs. 900€ = Flüge selber buchen vs. Reederei Flugpaket
 date: 2015-12-02T13:11:18+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?p=1240
+
 permalink: /2015/12/520e-vs-900e-fluege-selber-buchen-vs-reederei-flugpaket/
 categories:
   - Blog
@@ -22,13 +22,13 @@ Welche Vor- und Nachteile haben nun selbst buchen oder bzw. buchen lassen:
 
 ### Vorteil selber buchen:
 
--in der Regel deutlich günstiger
--flexibler, (z.T. auch bessere Airlines, keine Streik Lufthansa), man hat direkten Einfluß auf die Flugzeiten, Möglichkeit noch einen zusätzlichen Hotelaufenthalt für relativ wenig Geld an Start bzw. Endpunkt der Reise zu setzen. Dadurch entspannt sich die Anreise und Jetlag spielt auf der Kreuzfahrt selbst keine Rolle.
+* in der Regel deutlich günstiger
+* flexibler, (z.T. auch bessere Airlines, keine Streik Lufthansa), man hat direkten Einfluß auf die Flugzeiten, Möglichkeit noch einen zusätzlichen Hotelaufenthalt für relativ wenig Geld an Start bzw. Endpunkt der Reise zu setzen. Dadurch entspannt sich die Anreise und Jetlag spielt auf der Kreuzfahrt selbst keine Rolle.
 
 ### Vorteil Flugpaket:
 
--eine Art Versicherung auf das Schiff zu kommen
--Transfers sind inkludiert
+* eine Art Versicherung auf das Schiff zu kommen
+* Transfers sind inkludiert
 
 ### Fazit:
 

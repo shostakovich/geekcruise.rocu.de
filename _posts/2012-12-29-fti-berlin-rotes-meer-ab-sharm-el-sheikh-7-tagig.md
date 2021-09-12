@@ -4,22 +4,22 @@ title: 'FTI Berlin: Rotes Meer ab Sharm El Sheikh – 29.12.12 (7-tägig)'
 date: 2013-01-20T16:49:53+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?page_id=807
+
 ---
 [
-<img loading="lazy" src="/assets/2013/01/gps_log_fti_berlin_sml.jpg" alt="GPS Log - Rotes Meer" title="GPS Log - Rotes Meer"   class="alignnone size-full wp-image-811" srcset="/assets/2013/01/gps_log_fti_berlin_sml.jpg 606w, /assets/2013/01/gps_log_fti_berlin_sml-300x263.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />](/assets/2013/01/gps_log_fti_berlin.jpg)
+![GPS Log - Rotes Meer](/assets/2013/01/gps_log_fti_berlin_sml.jpg)](/assets/2013/01/gps_log_fti_berlin.jpg)
 
 zurückgelegte Distanz: 712sm/1319km
 
 ### Das Schiff
 
 
-<img loading="lazy" src="/assets/2013/01/fti_berlin_01.jpg" alt="FTI Berlin in Sharm El Sheikh" title="FTI Berlin in Sharm El Sheikh"   class="alignnone size-full wp-image-799" srcset="/assets/2013/01/fti_berlin_01.jpg 606w, /assets/2013/01/fti_berlin_01-300x152.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![FTI Berlin in Sharm El Sheikh](/assets/2013/01/fti_berlin_01.jpg)
 
 Das Schiff hat in der Tat schon einige Jahre auf der Schiffschraube. Trotzdem wirkt das in dunklen Holztönen gehaltene Interieur nicht billig oder altbacken. Besonders hat mir der Bereich der Bibliothek gefallen. Hier konnte man meist in Ruhe lesen und entspannen. Der überwiegende Teil der Bücher ist auf englisch, einige deutsche Fantasy-Titel sind vorhanden.
 
 
-<img loading="lazy" src="/assets/2013/01/fti_berlin_04.jpg" alt="FTI Berlin - Bibliothek" title="FTI Berlin - Bibliothek"   class="alignnone size-full wp-image-802" srcset="/assets/2013/01/fti_berlin_04.jpg 606w, /assets/2013/01/fti_berlin_04-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![FTI Berlin - Bibliothek](/assets/2013/01/fti_berlin_04.jpg)
 
 Während der Reise offenbarten sich jedoch an einigen Stellen mehr oder weniger kleinere technische Probleme am Schiff:
 – so empfand ich die Klimaanlage als zu warm, in den ersten beiden Nächten konnte man sie nicht regulieren.
@@ -30,7 +30,7 @@ Während der Reise offenbarten sich jedoch an einigen Stellen mehr oder weniger 
 ### Kabine (405)
 
 
-<img loading="lazy" src="/assets/2013/01/fti_berlin_02.jpg" alt="FTI Berlin - Kabine 405" title="FTI Berlin - Kabine 405"   class="alignnone size-full wp-image-800" srcset="/assets/2013/01/fti_berlin_02.jpg 606w, /assets/2013/01/fti_berlin_02-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![FTI Berlin - Kabine 405](/assets/2013/01/fti_berlin_02.jpg)
 
 Unsere Außenkabine auf dem Deck 3 (Kabine 405) war klein und zweckmäßig eingerichtet. Es gab ausreichend Platz in den Schränken, eine Minibar, sowie ein kleiner Röhren-TV mit DVD-Player.
 Das Bad ist recht klein und bietet wenig Platz zum Aufhängen der Handtücher. Man findet dort auch eine Dusche mit Duschvorhang vor.
@@ -62,10 +62,10 @@ Störend nahmen wir nur die Reservierungswut der Liegen wahr.
 Bis auf einen Ausflug (Petra, Jordanien) haben wir alle Ausflüge über private Anbieter im Internet vorab gebucht. Das spart in der Regel richtig viel Geld, jedoch ist es manchmal nicht ganz einfach zum Hafenausgang zu kommen.
 
 Kosten:
--Safaga nach Luxor, gebucht über [getyourguide.com](http://www.getyourguide.com), ca. 90€ p. Erwachsenen (Anbieter: aegypten-ausfluege)
--Aqaba nach Petra, gebucht über Reederei, 129€ p. Erwachsenen
--Sokhna nach Kairo, gebucht über [aegypten-ausfluege.de](http://www.aegypten-ausfluege.de/), ca. 80€ p. Erwachsenen (mit Verhandeln kann man aber auch für 70€ den Ausflug bekommen)
--Sharm El Sheikh: Schnorchelausflug, gebucht über [getyourguide.com](http://www.getyourguide.com), ca. 40€ p. Erwachsenen
+* Safaga nach Luxor, gebucht über [getyourguide.com](http://www.getyourguide.com), ca. 90€ p. Erwachsenen (Anbieter: aegypten-ausfluege)
+* Aqaba nach Petra, gebucht über Reederei, 129€ p. Erwachsenen
+* Sokhna nach Kairo, gebucht über [aegypten-ausfluege.de](http://www.aegypten-ausfluege.de/), ca. 80€ p. Erwachsenen (mit Verhandeln kann man aber auch für 70€ den Ausflug bekommen)
+* Sharm El Sheikh: Schnorchelausflug, gebucht über [getyourguide.com](http://www.getyourguide.com), ca. 40€ p. Erwachsenen
 
 #### 30.12.12, Safaga, Ägypten
 
@@ -75,16 +75,16 @@ Zum Glück treffen wir im Hafen zwei freundliche Beamte der Touristenpolizei, di
 Gegen 9:00 erreichen wir, gut durchgeschüttelt von den schlechten bis sehr schlechten Strassen, Luxor und besichtigen den eindrucksvollen Karnak-Tempel.
 
 
-<img loading="lazy" src="/assets/2013/01/ausfluege_aegypten_01.jpg" alt="erster Pylon des Karnaktempels" title="erster Pylon des Karnaktempels"   class="alignnone size-full wp-image-825" srcset="/assets/2013/01/ausfluege_aegypten_01.jpg 606w, /assets/2013/01/ausfluege_aegypten_01-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![erster Pylon des Karnaktempels](/assets/2013/01/ausfluege_aegypten_01.jpg)
 
 
-<img loading="lazy" src="/assets/2013/01/ausfluege_aegypten_02.jpg" alt="Im Karnaktempel" title="Im Karnaktempel"   class="alignnone size-full wp-image-826" srcset="/assets/2013/01/ausfluege_aegypten_02.jpg 606w, /assets/2013/01/ausfluege_aegypten_02-225x300.jpg 225w" sizes="(max-width: 606px) 85vw, 606px" />
+![Im Karnaktempel](/assets/2013/01/ausfluege_aegypten_02.jpg)
 
 Anschließend steht leider eine Werbeverkaufveranstaltung auf dem Programm, eine &#8222;Besichtigung&#8220; eines Papyrus-Instituts. Hier sollte man sich nicht zuviel darunter vorstellen. Es werden nur unheimlich teure und unheimlich schlecht gemalte Papyrus-Bilder verkauft. Hier war unsere kleine Gruppe noch recht wenig zahlungswillig. Und so ging es weiter im Programm mit dem Mittagessen.
 Gut gestärkt geht es dann zu den Memnon-Kolossen und dem Totentempel der Hatschepsut.
 
 
-<img loading="lazy" src="/assets/2013/01/ausfluege_aegypten_03.jpg" alt="Memnonkolosse" title="Memnonkolosse"   class="alignnone size-full wp-image-827" srcset="/assets/2013/01/ausfluege_aegypten_03.jpg 606w, /assets/2013/01/ausfluege_aegypten_03-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Memnonkolosse](/assets/2013/01/ausfluege_aegypten_03.jpg)
 
 
 
@@ -103,13 +103,13 @@ Heute erholen wir uns von den gestrigen ziemlich anstrengenden Ausflug, schlafen
 Nach dem gestrigen sehr erholsamen Tag in Safaga steht heute ein weiteres Highlight dieser Reise an. Von Aqaba geht es mit einem Reedereiausflug nach Petra in Jordanien. Und das sogar ganz ohne Werbeverkaufsveranstaltung.
 
 
-<img loading="lazy" src="/assets/2013/01/ausfluege_aegypten_05.jpg" alt="Unterwegs nach Petra in Jordanien" title="Unterwegs nach Petra in Jordanien"   class="alignnone size-full wp-image-829" srcset="/assets/2013/01/ausfluege_aegypten_05.jpg 606w, /assets/2013/01/ausfluege_aegypten_05-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Unterwegs nach Petra in Jordanien](/assets/2013/01/ausfluege_aegypten_05.jpg)
 
 
-<img loading="lazy" src="/assets/2013/01/ausfluege_aegypten_06.jpg" alt="in Petra" title="in Petra"   class="alignnone size-full wp-image-830" srcset="/assets/2013/01/ausfluege_aegypten_06.jpg 606w, /assets/2013/01/ausfluege_aegypten_06-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![in Petra](/assets/2013/01/ausfluege_aegypten_06.jpg)
 
 
-<img loading="lazy" src="/assets/2013/01/ausfluege_aegypten_07.jpg" alt="Siq - Petra" title="Siq - Petra"   class="alignnone size-full wp-image-831" srcset="/assets/2013/01/ausfluege_aegypten_07.jpg 606w, /assets/2013/01/ausfluege_aegypten_07-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Siq - Petra](/assets/2013/01/ausfluege_aegypten_07.jpg)
 
 Nach etwa zwei Stunden Fahrt durch die sehr abwechslungsreiche Wüstenlandschaft Jordaniens erreichen wir schließlich Petra. Unser Führer erzählt uns von der nabatäischen Kultur und welche Bedeutungen die zahlreichen in den Fels geschlagenen Gebäude, Höhlen und Denkmäler besitzen. Neben dem berühmten Schatzhaus (bekannt aus &#8222;Indiana Jones – Der letzte Kreuzzug&#8220;) beeindruckt uns vor allem die schöne Sandstein-Schlucht selbst. Wir haben nach der Führung noch genug Zeit selbst in der langen Schlucht umherzuwandern.
 
@@ -121,22 +121,22 @@ Heute haben wir einen Ausflug nach Kairo gebucht. Gegen 06:30 sind wir mit unser
 Der Hafen in Sokhna ist ein riesiger Industriehafen, zu Fuss zum Ausgang zu laufen ist daher auch verboten. Dahergibt kleine Shuttle-Minibusse, die uns vom Schiff aus zum Hafenausgang fahren. Hier treffen wir dann auch unsere Ausflugs-Guides. Heute sind wir auch eine richtig große Truppe die diesen Ausflug unabhängig von der Reederei gebucht haben, insgesamt 12 Leute.
 
 
-<img loading="lazy" src="/assets/2013/01/ausfluege_aegypten_08.jpg" alt="Ausflugsbus nach Kairo" title="Ausflugsbus nach Kairo"   class="alignnone size-full wp-image-832" srcset="/assets/2013/01/ausfluege_aegypten_08.jpg 606w, /assets/2013/01/ausfluege_aegypten_08-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Ausflugsbus nach Kairo](/assets/2013/01/ausfluege_aegypten_08.jpg)
 
 
-<img loading="lazy" src="/assets/2013/01/ausfluege_aegypten_09.jpg" alt="unweit des Aqyptischen Museums" title="unweit des Aqyptischen Museums"   class="alignnone size-full wp-image-833" srcset="/assets/2013/01/ausfluege_aegypten_09.jpg 606w, /assets/2013/01/ausfluege_aegypten_09-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![unweit des Aqyptischen Museums](/assets/2013/01/ausfluege_aegypten_09.jpg)
 
 
-<img loading="lazy" src="/assets/2013/01/ausfluege_aegypten_10.jpg" alt="Ägyptisches Museum" title="Ägyptisches Museum"   class="alignnone size-full wp-image-834" srcset="/assets/2013/01/ausfluege_aegypten_10.jpg 606w, /assets/2013/01/ausfluege_aegypten_10-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Ägyptisches Museum](/assets/2013/01/ausfluege_aegypten_10.jpg)
 
 Von Sokhna aus starten wir die 2h Fahrt nach Kairo. Als erstes steht das Ägyptisches Museum auf dem Programm. Hier gibt es Unmengen an Exponaten, die man unmöglich alle in der kurzen Zeit anschauen kann, daher konzentrieren sich die Guides in der Regel auf Echnaton und Tut-Anch-Amun. Von letzterem sehen wir die beeindruckenden Sarkophage, Grabbeigaben und die weltbekannte Totenmaske. Da Fotografieren verboten ist, gibt es leider keine Fotos davon. Das Museum versprüht nicht nur wegen seiner Exponate aber auch wegen der Präsentation einen ganz eigenen Charme. Man fühlt sich direkt in die Zeit von Agatha Christie zurück versetzt.
 Nach dem Museum fahren wir schon recht früh zum Mittagessen. Wieder gibt es heute ein Büffet, das im Ausflugspreis mit inkludiert ist, Getränke kosten extra.
 
 
-<img loading="lazy" src="/assets/2013/01/ausfluege_aegypten_11.jpg" alt="Pyramiden" title="Pyramiden"   class="alignnone size-full wp-image-835" srcset="/assets/2013/01/ausfluege_aegypten_11.jpg 606w, /assets/2013/01/ausfluege_aegypten_11-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Pyramiden](/assets/2013/01/ausfluege_aegypten_11.jpg)
 
 
-<img loading="lazy" src="/assets/2013/01/ausfluege_aegypten_12.jpg" alt="Pyramiden mit Sphinx" title="Pyramiden mit Sphinx"   class="alignnone size-full wp-image-836" srcset="/assets/2013/01/ausfluege_aegypten_12.jpg 606w, /assets/2013/01/ausfluege_aegypten_12-300x170.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Pyramiden mit Sphinx](/assets/2013/01/ausfluege_aegypten_12.jpg)
 
 Im Anschluss geht es zu den Pyramiden. Normalerweise müsste man einen recht langen beschwerlichen Fußweg zu den Pyramiden zurücklegen, aber unser Bus darf gegen eine &#8222;Gebühr&#8220; hineinfahren und wir können nach einem Fotostopp die Pyramide aus nächster Nähe betrachten. Noch ein Tipp, mit niemanden in ein Gespräch verwickeln lassen, sonst sitzt man unversehen auf einem Kamel und man wird dann um eine Entlohnung von 60€ gebeten.
 
@@ -147,7 +147,7 @@ Ein letzter Höhepunkt ist die Sphinx die sich unweit der Pyramiden befindet. Vo
 Heute geht es zu einem Schnorchelausflug in den Nationalpark Ras Mohammed. Am Hafenausgang, der in Sharm El Sheikh sehr einfach zu finden ist, warten wir auf unseren Guide, der uns zum Ausflugsboots-Hafen in Naama Bay bringen soll. Dort angekommen, muss man etwas Papierkram machen und kann sich, wenn Bedarf besteht Schnorchelausrüstung ausleihen. Da recht viele Gäste aus sämtlichen Hotels der Stadt angekarrt werden und mit Ausrüstung versorgt werden müssen, zieht sich dieser Part etwas hin. Auch im Hafen von Naama Bay ist wieder Warten angesagt, zuviele Boote für für den kleinen Steg warten auf die Ausflugsgäste. Aber dann geht es auch schon los zum Schnorcheln.
 
 
-<img loading="lazy" src="/assets/2013/01/ausfluege_aegypten_13.jpg" alt="Schnorcheln in Rad Mohammed" title="Schnorcheln in Rad Mohammed"    class="alignnone size-full wp-image-837" srcset="/assets/2013/01/ausfluege_aegypten_13.jpg 606w, /assets/2013/01/ausfluege_aegypten_13-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Schnorcheln in Rad Mohammed](/assets/2013/01/ausfluege_aegypten_13.jpg)
 
 Insgesamt fahren wir drei Stopps an. Zu Beginn ist es alles noch ziemlich aufregend, da es mein erster Schnorchelausflug ist. Aber die vielen bunten Fische entlohnen alle mal für die Aufregung. Den Ausflug kann man wirklich empfehlen.
 

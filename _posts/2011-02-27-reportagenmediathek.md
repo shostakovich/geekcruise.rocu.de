@@ -4,7 +4,7 @@ title: Reportagen/Mediathek
 date: 2011-02-27T20:12:20+00:00
 author: SES
 layout: post
-guid: http://geekcruise.zipfelmaus.com/?p=22
+
 permalink: /2011/02/reportagenmediathek/
 categories:
   - Blog

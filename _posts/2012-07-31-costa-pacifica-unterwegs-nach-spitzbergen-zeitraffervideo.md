@@ -4,7 +4,7 @@ title: 'Costa Pacifica – Unterwegs nach Spitzbergen (Zeitraffervideo)'
 date: 2012-07-31T22:30:13+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?p=715
+
 permalink: /2012/07/costa-pacifica-unterwegs-nach-spitzbergen-zeitraffervideo/
 categories:
   - Blog

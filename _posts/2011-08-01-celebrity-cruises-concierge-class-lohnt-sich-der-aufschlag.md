@@ -4,7 +4,7 @@ title: 'Celebrity Cruises: Concierge Class – lohnt sich der Aufschlag?'
 date: 2011-08-01T19:00:47+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?p=368
+
 permalink: /2011/08/celebrity-cruises-concierge-class-lohnt-sich-der-aufschlag/
 categories:
   - Blog
@@ -24,7 +24,7 @@ folgende Vorteile verspricht die Concierge Class:
 #### Priority Check-In
 
 
-<img loading="lazy" src="/assets/2011/08/celebrity_silhouette_6537.jpg" alt="" title="Celebrity Silhouette - lange Schlangen, aber nicht bei uns"   class="alignnone size-full wp-image-381" srcset="/assets/2011/08/celebrity_silhouette_6537.jpg 606w, /assets/2011/08/celebrity_silhouette_6537-300x225.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
+![Celebrity Silhouette - lange Schlangen, aber nicht bei uns](/assets/2011/08/celebrity_silhouette_6537.jpg)
 – schön, wenn man nicht in die lange Schlange muss
 
 * * *
@@ -32,7 +32,7 @@ folgende Vorteile verspricht die Concierge Class:
 #### Begrüßungs-Sekt-Flasche auf der Kabine, Fruchtkorb (jeden Tag) & frische Blumen
 
 
-<img loading="lazy" src="/assets/2011/08/celebrity_silhouette_6535.jpg" alt="" title="Celebrity Silhouette - Concierge Class - Sekt, Früchtekorb, Bettkissen-Menu"   class="alignnone size-full wp-image-379" srcset="/assets/2011/08/celebrity_silhouette_6535.jpg 606w, /assets/2011/08/celebrity_silhouette_6535-300x225.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
+![Celebrity Silhouette - Concierge Class - Sekt, Früchtekorb, Bettkissen-Menu](/assets/2011/08/celebrity_silhouette_6535.jpg)
 – guter Sekt im Sektkühler wartet auf einen am ersten Tag
 – Standard Früchte (Trauben, Äpfel, Bananen), nix exotisches
 – nette Blumen im Zimmer und im Bad (wird regelmäßig ausgetauscht)
@@ -48,7 +48,7 @@ folgende Vorteile verspricht die Concierge Class:
 #### Erweitertes Angebot beim Frühstück-Zimmerservice
 
 
-<img loading="lazy" src="/assets/2011/08/celebrity_silhouette_6531.jpg" alt="" title="Celebrity Silhouette - Concierge Class - Frühstück auf dem Zimmer"   class="alignnone size-full wp-image-375" srcset="/assets/2011/08/celebrity_silhouette_6531.jpg 606w, /assets/2011/08/celebrity_silhouette_6531-300x225.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
+![Celebrity Silhouette - Concierge Class - Frühstück auf dem Zimmer](/assets/2011/08/celebrity_silhouette_6531.jpg)
 – wir werden erst im November sehen, wie das eingeschränkte Angebot aussieht. Es gab u.a. frischgepresste Säfte, Omlettes, French Toast.
 
 * * *
@@ -62,7 +62,7 @@ folgende Vorteile verspricht die Concierge Class:
 #### Kissen Menu, Flauschige Frette® Bademantel
 
 
-<img loading="lazy" src="/assets/2011/08/celebrity_silhouette_6532.jpg" alt="" title="Celebrity Silhouette - Concierge Class - Bademantel"   class="alignnone size-full wp-image-376" srcset="/assets/2011/08/celebrity_silhouette_6532.jpg 606w, /assets/2011/08/celebrity_silhouette_6532-150x150.jpg 150w, /assets/2011/08/celebrity_silhouette_6532-300x298.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
+![Celebrity Silhouette - Concierge Class - Bademantel](/assets/2011/08/celebrity_silhouette_6532.jpg)
 – vier Kissen auf dem Bett, pro Seite, das spricht für sich, muss aber nicht sein
 – die Bademäntel sind sehr gut
 
@@ -95,7 +95,7 @@ folgende Vorteile verspricht die Concierge Class:
 #### Kostenloser Schuhputz-Service, Benutzung von Regenschirmen und hochqualitativer Ferngläser
 
 
-<img loading="lazy" src="/assets/2011/08/celebrity_silhouette_6534.jpg" alt="" title="Celebrity Silhouette - Concierge Class - Fernglas"   class="alignnone size-full wp-image-378" srcset="/assets/2011/08/celebrity_silhouette_6534.jpg 606w, /assets/2011/08/celebrity_silhouette_6534-300x225.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
+![Celebrity Silhouette - Concierge Class - Fernglas](/assets/2011/08/celebrity_silhouette_6534.jpg)
 – wer bei &#8222;hochqualitativer Ferngläser&#8220; bzw. &#8222;high-quality binoculars&#8220; an Zeiss vergütete Ferngläser denkt, der sollte seinen Anspruch runterschrauben, es ist eher das Einsteigermodell von Bresser
 
 * * *
@@ -113,7 +113,7 @@ folgende Vorteile verspricht die Concierge Class:
 #### 32&#8243; LCD TV multi-funktions, interaktiver TV
 
 
-<img loading="lazy" src="/assets/2011/08/celebrity_silhouette_6538.jpg" alt="" title="Celebrity Silhouette - Concierge Class - Interaktives TV"   class="alignnone size-full wp-image-382" srcset="/assets/2011/08/celebrity_silhouette_6538.jpg 606w, /assets/2011/08/celebrity_silhouette_6538-300x225.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
+![Celebrity Silhouette - Concierge Class - Interaktives TV](/assets/2011/08/celebrity_silhouette_6538.jpg)
 – toller riesiger LCD mit einem Apple-powered Informationssystem (Video on Demand, Konto-Information, Buchungen von Zimmerservice, Ausflügen, TV)
 
 * * *
@@ -121,7 +121,7 @@ folgende Vorteile verspricht die Concierge Class:
 #### Drogerieartikel (Badelotionen, Shampoo, &#8230;)
 
 
-<img loading="lazy" src="/assets/2011/08/celebrity_silhouette_6533.jpg" alt="" title="Celebrity Silhouette - Concierge Class - Badartikel"   class="alignnone size-full wp-image-377" srcset="/assets/2011/08/celebrity_silhouette_6533.jpg 606w, /assets/2011/08/celebrity_silhouette_6533-300x225.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
+![Celebrity Silhouette - Concierge Class - Badartikel](/assets/2011/08/celebrity_silhouette_6533.jpg)
 – gut, nicht so ganz gut, wie im Novotel
 
 * * *
@@ -129,5 +129,5 @@ folgende Vorteile verspricht die Concierge Class:
 #### Balkon mit Lounge-Sitzgelenheit
 
 
-<img loading="lazy" src="/assets/2011/08/celebrity_silhouette_6530.jpg" alt="" title="Celebrity Silhouette - Concierge Class - Balkon "   class="alignnone size-full wp-image-374" srcset="/assets/2011/08/celebrity_silhouette_6530.jpg 606w, /assets/2011/08/celebrity_silhouette_6530-300x225.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
+![Celebrity Silhouette - Concierge Class - Balkon ](/assets/2011/08/celebrity_silhouette_6530.jpg)
 – eine Lounge ist es nicht, aber sehr angenehm auf dem Klapp-Liegestuhl mit Beinstütze

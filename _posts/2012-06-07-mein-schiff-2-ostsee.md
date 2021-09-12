@@ -4,10 +4,10 @@ title: 'Mein Schiff 2: Ostsee, 07.06.12'
 date: 2012-07-07T19:54:53+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?page_id=652
+
 ---
 [
-<img loading="lazy" src="/assets/2012/07/gps_map_sml.png" alt="" title="GPS-Routenkarte Mein Schiff 2 - Ostsee"   class="alignnone size-full wp-image-659" />](/assets/2012/07/gps_map_sml.png)
+![GPS-Routenkarte Mein Schiff 2 - Ostsee](/assets/2012/07/gps_map_sml.png)](/assets/2012/07/gps_map_sml.png)
 Zurückgelegte Distanz: 3.969,97 km/2.143,61 sm
 
 ## 07.06.12, Kiel, Einschiffung
@@ -33,26 +33,26 @@ Theater-Show: Aqua
 
 
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_009.jpg" alt="" title="Stockholm"   />
+![Stockholm](/assets/2012/07/mein_schiff2_ostsee_009.jpg)
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_010.jpg" alt="" title="Stockholm"   />
+![Stockholm](/assets/2012/07/mein_schiff2_ostsee_010.jpg)
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_011.jpg" alt="" title="Stockholm - Schärenwelt"   />
+![Stockholm - Schärenwelt](/assets/2012/07/mein_schiff2_ostsee_011.jpg)
 
 ## 10.06.12, Helsinki, Finnland
 
 Wetter: sonnig, 18°C
 Ausflug: heute ging es mit einem über das Schiff organisierten Rad-Ausflug in die finnische Hauptstadt. Das Tempo war etwas sportlicher als in Stockholm, ebenso die Strecke. Insgesamt waren wir 5h unterwegs und hatten ca. 35km zu absolvieren. Bei sonnigem Wetter hat das aber großen Spaß gemacht. Bei 1h Freizeit im Zentrum konnten wir noch ein paar Ecken zu Fuss erkunden.
 Hafeninfo: Hafen ist recht weit außerhalb. Shuttlebus für 7€ wird angeboten.
--TUI-Shuttlebus für 7€ wird angeboten
+* TUI-Shuttlebus für 7€ wird angeboten
 Theater-Show: Schlagershow: Ein Lied umgeht die Welt
 
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_012.jpg" alt="" title="Helsinki - Radausflug"   />
+![Helsinki - Radausflug](/assets/2012/07/mein_schiff2_ostsee_012.jpg)
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_013.jpg" alt="" title="Helsinki - Radausflug"   />
+![Helsinki - Radausflug](/assets/2012/07/mein_schiff2_ostsee_013.jpg)
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_014.jpg" alt="" title="Helsinki - Radausflug"   />
+![Helsinki - Radausflug](/assets/2012/07/mein_schiff2_ostsee_014.jpg)
 
 ## 11.06.12, St. Petersburg, Russland
 
@@ -62,13 +62,13 @@ Hafeninfo: Kreuzfahrthafen mit mehreren modernen Kreuzfahrtterminals, ca. 15min 
 Theater-Show: Pool Party und Schokofrüchte Dessert
 
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_001.jpg" alt="" title="St. Petersburg"   />
+![St. Petersburg](/assets/2012/07/mein_schiff2_ostsee_001.jpg)
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_002.jpg" alt="" title="St. Petersburg"   />
+![St. Petersburg](/assets/2012/07/mein_schiff2_ostsee_002.jpg)
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_003.jpg" alt="" title="St. Petersburg"   />
+![St. Petersburg](/assets/2012/07/mein_schiff2_ostsee_003.jpg)
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_004.jpg" alt="" title="St. Petersburg"   />
+![St. Petersburg](/assets/2012/07/mein_schiff2_ostsee_004.jpg)
 
 ## 12.06.12, St. Petersburg, Russland
 
@@ -78,44 +78,44 @@ Hafeninfo: Kreuzfahrthafen mit mehreren modernen Kreuzfahrtterminals, ca. 15min 
 Theater-Show: Rock The Boat
 
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_005.jpg" alt="" title="St. Petersburg"   />
+![St. Petersburg](/assets/2012/07/mein_schiff2_ostsee_005.jpg)
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_006.jpg" alt="" title="St. Petersburg"   />
+![St. Petersburg](/assets/2012/07/mein_schiff2_ostsee_006.jpg)
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_007.jpg" alt="" title="St. Petersburg"   />
+![St. Petersburg](/assets/2012/07/mein_schiff2_ostsee_007.jpg)
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_008.jpg" alt="" title="St. Petersburg"   />
+![St. Petersburg](/assets/2012/07/mein_schiff2_ostsee_008.jpg)
 
 ## 13.06.12, Tallinn, Estland
 
 Wetter: sonnig, 22°C
 Ausflug: einen weiteren Radausflug haben wir in Tallinn absolviert. Diesen haben wir über [http://www.citybike.ee/](http://www.citybike.ee/eng/welcome.to.tallinn.tour/) reserviert. Zwar sind die Räder und die Helme nicht so neu, wie in den anderen Orten oder vom Schiff. Aber dafür kostet die Tour auch nur 16€ p.P und führt über 2h und 16km Fahrstrecke zu den umliegenden Highlights von Tallinn.
 Hafeninfo:
--TUI-Shuttlebus für 7€ wird angeboten, ist aber eher unnötig, da man zu Fuss die Altstadt in 15min erreicht.
+* TUI-Shuttlebus für 7€ wird angeboten, ist aber eher unnötig, da man zu Fuss die Altstadt in 15min erreicht.
 Theater-Show: keine Show, wegen Deutschland EM-Spiel
 
 
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_015.jpg" alt="" title="Tallinn"   />
+![Tallinn](/assets/2012/07/mein_schiff2_ostsee_015.jpg)
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_016.jpg" alt="" title="Tallinn"   />
+![Tallinn](/assets/2012/07/mein_schiff2_ostsee_016.jpg)
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_017.jpg" alt="" title="Tallinn"   />
+![Tallinn](/assets/2012/07/mein_schiff2_ostsee_017.jpg)
 
 ## 14.06.12, Riga, Lettland
 
 Wetter: sonnig, 22°C
 Ausflug: um nach Riga zu kommen haben wir heute den TUI Shuttlebus in Anspruch genommen. Richtig viele Highlights findet man in Riga irgendwie nicht. Neben ein paar Kirchen und dem Fluss Düna gint es nicht soviel zu sehen.
 Hafeninfo:
--Industriehafen außerhalb der Stadt (ca. 12km)
--TUI-Shuttlebus für 7€ (Fahrtzeit ca. 20min abh. vom Verkehr).
+* Industriehafen außerhalb der Stadt (ca. 12km)
+* TUI-Shuttlebus für 7€ (Fahrtzeit ca. 20min abh. vom Verkehr).
 Theater-Show: Der ewige Kreis
 
 
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_018.jpg" alt="" title="Riga"   />
+![Riga](/assets/2012/07/mein_schiff2_ostsee_018.jpg)
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_020.jpg" alt="" title="Riga"   />
+![Riga](/assets/2012/07/mein_schiff2_ostsee_020.jpg)
 
 ## 15.06.12, Gdingen/Danzig, Polen
 
@@ -127,11 +127,11 @@ Taxis fahren für 5€ zum Bahnhof. Fussweg etwa 20min.
 Theater-Show: Lachen mit Loriot
 
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_021.jpg" alt="" title="Danzig"   />
+![Danzig](/assets/2012/07/mein_schiff2_ostsee_021.jpg)
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_023.jpg" alt="" title="Danzig"   />
+![Danzig](/assets/2012/07/mein_schiff2_ostsee_023.jpg)
 
-<img loading="lazy" src="/assets/2012/07/mein_schiff2_ostsee_024.jpg" alt="" title="Danzig"   />
+![Danzig](/assets/2012/07/mein_schiff2_ostsee_024.jpg)
 
 ## 16.06.12, Schiffstag
 

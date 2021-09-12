@@ -4,13 +4,13 @@ title: 'Celebrity Equinox: östliches Mittelmeer ab Civitavecchia – 07.11.11 (
 date: 2011-12-04T14:04:59+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?page_id=484
+
 ---
 [
-<img loading="lazy" src="/assets/2011/12/gps_route_celebrity_equinox_071111_sml.jpg" alt="" title="Route der Celebrity Equinox aufgezeichnet mit einem Garmin GPS"   class="alignnone size-full wp-image-511" srcset="/assets/2011/12/gps_route_celebrity_equinox_071111_sml.jpg 606w, /assets/2011/12/gps_route_celebrity_equinox_071111_sml-300x211.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />](/assets/2011/12/gps_route_celebrity_equinox_071111.jpg)
+![Route der Celebrity Equinox aufgezeichnet mit einem Garmin GPS](/assets/2011/12/gps_route_celebrity_equinox_071111_sml.jpg)](/assets/2011/12/gps_route_celebrity_equinox_071111.jpg)
 
 
-<img loading="lazy" src="/assets/2011/12/celebrity_silhouette_16.jpg" alt="" title="Celebrity Silhouette, aufgenommen in Souda - Kreta"   class="alignnone size-full wp-image-505" srcset="/assets/2011/12/celebrity_silhouette_16.jpg 606w, /assets/2011/12/celebrity_silhouette_16-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Celebrity Silhouette, aufgenommen in Souda - Kreta](/assets/2011/12/celebrity_silhouette_16.jpg)
 
 Zurückgelegte Distanz: 4839km/2612sm
 
@@ -26,12 +26,12 @@ zu Fuß zurückgelegte Schritte/Distanz: 10402/5,72km
 
 Mit mehr als 1,5h Verspätung (aufgrund einer besseren Auslastung des Flugmaterials, wie es die Schalter-Dame in München beschreibt) hebt unsere Mini-Maschine endlich Richtung Rom ab. Die kleine Maschine erinnert mich sehr an die 3-Wetter-Taft-Werbung aus den 80ern. Als diese Power-Karriere-Frau mit ihrer riesigen Mähne mehrmals an einem Tag aus dem gleichen Flieger an unterschiedlichen Orten steigt. Welchen Beruf sie wohl ausübte? War damals Charity auch schon so in? Das waren noch Zeiten, als solche Power-Karriere-Frauen noch gab.
 
-<img loading="lazy" src="/assets/2011/12/celebrity_silhouette_4.jpg" alt="" title="unser Air Dolimiti Flugzeug in München"   class="alignnone size-full wp-image-493" srcset="/assets/2011/12/celebrity_silhouette_4.jpg 606w, /assets/2011/12/celebrity_silhouette_4-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![unser Air Dolimiti Flugzeug in München](/assets/2011/12/celebrity_silhouette_4.jpg)
 Aber zurück zu unserem kleinen Zeitproblem, rechtzeitig zum Schiff zu kommen. Um 17:00 soll das Schiff ablegen, bis zu 75 min soll der Transfer dauern und bis die Koffer auf dem Band am Flughafen liegen, bis zu einer Stunde hab ich ja schon einmal gewartet, na das kann ja heiter werden.
 Gegen 14:15 landen wir in Rom, um 14:30 sind wir endlich aus dem Flieger und warten gefühlte Stunden auf unsere Koffer. Es macht mich ziemlich nervös, als die Celebrity Leute anfangen alles zusammenpacken. Schließlich purzeln die Koffer endlich auf das Band, und wir können unsere Gepäck bei dem verbliebenen Celebrity Fritzen abgeben.
 
 
-<img loading="lazy" src="/assets/2011/12/celebrity_silhouette_5.jpg" alt="" title="Kreuzfahrt Terminal in Civitavecchia"   class="alignnone size-full wp-image-494" srcset="/assets/2011/12/celebrity_silhouette_5.jpg 606w, /assets/2011/12/celebrity_silhouette_5-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Kreuzfahrt Terminal in Civitavecchia](/assets/2011/12/celebrity_silhouette_5.jpg)
 Wir schaffen es dann doch noch rechtzeitig auf das Schiff. Die mäßig spannende, meist eher langweilige Seenotrettungsübung ist schon im vollem Gange, ehe wir unsere Kabine erreichen. „Alle Gäste an Bord“-Zeit war 15:30, Istzeit war aber 16:30 – unser Flug war also nicht sonderlich gut getimed von der Reederei. Hätte es hier und da noch mehr geklemmt, wäre das Schiff wohl ohne uns losgefahren.
 Nun heißt es erst einmal, runterschalten und ankommen. Viel Zeit dazu bleibt jedoch nicht, denn gleich um 18:00 fängt unsere Sitzung im Hauptrestaurant an. Zu meiner Überraschung bekommen wir wieder einen Zweier-Tisch.
 Ich bin gespannt, ob sich die Speisekarte sich sonderlich von der Celebrity Silhouette unterscheidet. Nein, dass tut sie nicht, die Speisen sind 1:1 identisch. Nur geschmacklich fanden wir zumindest am heutigen Abend die Silhouette bisher um einiges besser.
@@ -46,9 +46,9 @@ zu Fuß zurückgelegte Schritte/Distanz: 7119/3,91km
 
 Heute früh, gegen 08:30, führt uns unsere Route durch die Straße von Messina. Leider haben wir die kleine Stromboli-Insel verschlafen und sehen nur noch einen Krater-Hügel schemenhaft am Horizont. Dafür ist Sizilien zum Greifen nahe. Ähnlich wie zwischen Calais und Dover verkehren hier Fähren in einem dichten Takt. Besonders flink sind kleine Personenfähren unterwegs. Ich dachte, mal was von einer Brücke zwischen dem Festland und Sizilien gelesen zu haben, jedoch fehlt von dieser weit und breit die Spur, vermutlich existiert sie nur im Planungsstadium oder es gibt einen Tunnel, wer weiß.
 
-<img loading="lazy" src="/assets/2011/12/celebrity_silhouette_6.jpg" alt="" title="kleine Fähre in der Straße von Messina"   class="alignnone size-full wp-image-495" srcset="/assets/2011/12/celebrity_silhouette_6.jpg 606w, /assets/2011/12/celebrity_silhouette_6-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![kleine Fähre in der Straße von Messina](/assets/2011/12/celebrity_silhouette_6.jpg)
 
-<img loading="lazy" src="/assets/2011/12/celebrity_silhouette_7.jpg" alt="" title="Straße von Messina"   class="alignnone size-full wp-image-496" srcset="/assets/2011/12/celebrity_silhouette_7.jpg 606w, /assets/2011/12/celebrity_silhouette_7-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Straße von Messina](/assets/2011/12/celebrity_silhouette_7.jpg)
 Nach einem ausgiebigen Kabinen-Frühstück lassen wir den Tag eher ruhig angehen, mit ein wenig Sport im Fitnessraum.
 Nach dem Abendessen steht die Show „Remix“ auf dem Programm, hier werden verschiedene Evergreens der vergangenen vierzig Jahre mit einer bunten Bühnenshow zusammengemischt – also ge-“Remix“-t.
 
@@ -64,7 +64,7 @@ Kurz nach 10:00 stürzen wir uns ins Getümmel bzw. zur Gangway. Von unserem Bal
 Nach einer Viertelstunde Fahrt von Souda nach Chania werden wir vor der örtlichen Markthalle rausgelassen. Daneben befindet sich ein kleiner Schalter der Touristeninformation, bei dem man sich eine kleine Karte der Stadt besorgen kann. Die nette Dame am Schalter markierte uns einen besonders „reizvollen“ Weg, der interessanter Weise genau durch das Nippes-Viertel führt. Wer sich nicht an die Wegvorgabe der netten Dame hält, kommt sicher auch über eine Seitenstraße am Hauptziel, dem Venezianischen Hafen, an.
 
 
-<img loading="lazy" src="/assets/2011/12/celebrity_silhouette_8.jpg" alt="" title="Venezianischer Hafen von Chania"   class="alignnone size-full wp-image-497" srcset="/assets/2011/12/celebrity_silhouette_8.jpg 606w, /assets/2011/12/celebrity_silhouette_8-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Venezianischer Hafen von Chania](/assets/2011/12/celebrity_silhouette_8.jpg)
 
 Bis zum Nachmittag haben wir die kleine Altstadt inkl. Starbucks ausgiebig erkundigt und machen uns auf dem Rückweg nach Souda. Bevor es wieder zurück in den Bus geht, müssen wir uns noch mit Wasser für die nächsten Ausflüge eindecken. Links neben der Markthalle gibt es einen kleinen Supermarkt (INKA), in dem man sehr günstig Wasser bekommen kann.
 Der Bus wartet wiederum vor der Markthalle in Chania und fährt ohne Zwischenhalt wieder zum Ausgangsort Souda zurück.
@@ -88,12 +88,12 @@ Wir fahren bis zu der Station Monastiraki. Laut Internet soll die Fahrzeit 16:30
 Rund um die Station befindet sich das historische Viertel von Athen, in Gehreichweite liegt die Akropolis. Etwas weiter in Osten befinden sich der Zeus Tempel, das Panathenaic Stadium, der Nationalgarten und das griechische Parlament.
 Auf dem sehr bevölkerten Akropolis-Hügel frage ich mich, wie viele mehr Menschen wohl in der Hauptsaison kommen.
 
-<img loading="lazy" src="/assets/2011/12/celebrity_silhouette_17.jpg" alt="" title="Menschenmassen vor der Akropolis"   class="alignnone size-full wp-image-506" srcset="/assets/2011/12/celebrity_silhouette_17.jpg 606w, /assets/2011/12/celebrity_silhouette_17-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Menschenmassen vor der Akropolis](/assets/2011/12/celebrity_silhouette_17.jpg)
 
 
 
 
-<img loading="lazy" src="/assets/2011/12/celebrity_silhouette_9.jpg" alt="" title="Amphitheater am Akropolis-Berg"   class="alignnone size-full wp-image-498" srcset="/assets/2011/12/celebrity_silhouette_9.jpg 606w, /assets/2011/12/celebrity_silhouette_9-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Amphitheater am Akropolis-Berg](/assets/2011/12/celebrity_silhouette_9.jpg)
 
 Auf dem Rückweg zur Metro-Station Monastiraki pilgern wir noch durch die Gässchen von Plaka (Stadtviertel, nördlich der Akropolis), Die vielen Nippes-Läden erinnern uns ein wenig an gestern, an Chania. Nur zieht sich hier alles noch viel länger hin. Auch die Restaurants laden nicht gerade zu Essen ein, alles ist laut und hektisch, wie kann man da in Ruhe Mittagessen?
 
@@ -111,7 +111,7 @@ Nach dem Frühsport im Fitness-Studio und einem kleinen Frühstück auf der Kabi
 Nach Sprachen und in 10er Gruppen unterteilt, wartete jede Gruppe darauf von einem der Chef-Köche durch die Galley geführt zu werden. Um die Zeit für die wartenden Gäste zu verkürzen beantwortete der Oberchefkoch Ueli die Fragen der Gäste.
 
 
-<img loading="lazy" src="/assets/2011/12/celebrity_silhouette_0.jpg" alt="" title="Galley des Hauptrestaurants der Celebrity Equinox"   class="alignnone size-full wp-image-489" srcset="/assets/2011/12/celebrity_silhouette_0.jpg 606w, /assets/2011/12/celebrity_silhouette_0-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Galley des Hauptrestaurants der Celebrity Equinox](/assets/2011/12/celebrity_silhouette_0.jpg)
 
 Insgesamt gibt es 162 Köche an Bord, die in 17 verschiedenen Küchen verteilt auf dem Schiff arbeiten. Weiterhin gibt es ein vorgeschriebenes flottenweites Menü für die Küchen auf dem Schiff. D.h. man bekommt das Gleiche auf der Equinox wie auf der Silhouette zu essen (was wir auch bestätigen können). Einmal jährlich werden Anpassungen am Menü vorgenommen.
 Nun beginnt auch unsere Führung durch die Galley, die Köche bereiteten gegen 11:00 schon das Abendessen vor. An der ersten Station werden die Süßspeisen zubereitet, danach befinden sich die Köche, die für das Büffet-Restaurant Speisen on Demand zubereiten. Gegenüber bereiten Köche Mozzarella-Fleischbällchen für heute Abend vor.
@@ -132,15 +132,15 @@ Am Ausgang des Passagierterminals, wartet unser Guide Ali auf uns. Die Tour hatt
 
 Im Anschluss geht es zur Blauen Moschee. Für uns Mitteleuropäer eher ungewohnt, beim Betreten der Moschee gilt Schuhe ausziehen. Die Schuhe können wir in einer kleinen Plastetüte mit hineinnehmen. Drinnen beeindruckt uns der riesige Kuppelbau und die Verzierungen auf den Fliesen.
 
-<img loading="lazy" src="/assets/2011/12/celebrity_silhouette_14.jpg" alt="" title="Istanbul - Blaue Moschee"   class="alignnone size-full wp-image-503" srcset="/assets/2011/12/celebrity_silhouette_14.jpg 606w, /assets/2011/12/celebrity_silhouette_14-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Istanbul - Blaue Moschee](/assets/2011/12/celebrity_silhouette_14.jpg)
 
-<img loading="lazy" src="/assets/2011/12/celebrity_silhouette_10.jpg" alt="" title="Istanbul - Blaue Moschee"   class="alignnone size-full wp-image-499" srcset="/assets/2011/12/celebrity_silhouette_10.jpg 606w, /assets/2011/12/celebrity_silhouette_10-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Istanbul - Blaue Moschee](/assets/2011/12/celebrity_silhouette_10.jpg)
 
 Über das einstige Hippodrom, heute ein Platz mit zwei Obelisken und einer Säule führt uns dann unser Guide zur Hagia Sophia. Die Kuppel ist noch einmal deutlich größer, obwohl das Bauwerk deutlich älter als die Blaue Moschee ist.
 
-<img loading="lazy" src="/assets/2011/12/celebrity_silhouette_13.jpg" alt="" title="Istanbul - Hagia Sophia"   class="alignnone size-full wp-image-502" srcset="/assets/2011/12/celebrity_silhouette_13.jpg 606w, /assets/2011/12/celebrity_silhouette_13-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Istanbul - Hagia Sophia](/assets/2011/12/celebrity_silhouette_13.jpg)
 
-<img loading="lazy" src="/assets/2011/12/celebrity_silhouette_11.jpg" alt="" title="Istanbul - Hagia Sophia"   class="alignnone size-full wp-image-500" srcset="/assets/2011/12/celebrity_silhouette_11.jpg 606w, /assets/2011/12/celebrity_silhouette_11-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Istanbul - Hagia Sophia](/assets/2011/12/celebrity_silhouette_11.jpg)
 
 Soviele Eindrücke machen natürlich hungrig. In einem Hotel unterhalb des Topkapi Palastes bekommen wir unser Mittagessen serviert.
 Im Anschluss steht der obligatorische Besuch beim Teppichhändler an. Hier trinken wir Apfeltee und lassen uns dabei einige Teppiche zeigen. Der Teppichhändler ist sehr nett und spricht akzentfrei Deutsch. Aber auch das hilft alles nichts, wir kaufen leider keinen Teppich.
@@ -149,7 +149,7 @@ Danach geht es dann zum letzten Punkt unseres Ausfluges dem Großen Bassar. Hier
 Kurz bevor wir wieder zum Schiff zurückfahren, probieren wir noch eine kleine Auswahl an Baklava. Einfach lecker.
 
 
-<img loading="lazy" src="/assets/2011/12/celebrity_silhouette_12.jpg" alt="" title="Istanbul bei Nacht von unserer Kabina ausgesehen"   class="alignnone size-full wp-image-501" srcset="/assets/2011/12/celebrity_silhouette_12.jpg 606w, /assets/2011/12/celebrity_silhouette_12-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Istanbul bei Nacht von unserer Kabina ausgesehen](/assets/2011/12/celebrity_silhouette_12.jpg)
 
 Am Abend gibt es im Theater eine Türkische Folklore-Show mit Live-Musik, Tänzern und einer Bauchtänzerin.
 
@@ -219,7 +219,7 @@ Heute haben wir uns viel vorgenommen, es soll von unserem heutigen Hafen Messina
 Wenn das schlechte Wetter und unser immer und ewig quaselender weiblicher Tourguide nicht gewesen wären, wäre es sicher einer der schönsten Ausflüge geworden. So bekam ich schon auf der Hinfahrt Kopfschmerzen und eine eher gedämpfte Stimmung. Auch vom Ätna war nicht sehr viel zu sehen. Die Sichtweite am Silvestri Krater betrug nur so um die 150m.
 Gerade fällt mir sogar ein, dass die Quasel-Dame im Bus soviel unnützes Wissen über Land und Leute von sich gegeben hat, dass sie nicht einmal ihren Namen genannt hat oder vielleicht hat mein Gehirn aus reinem Selbstschutz derart ausgesiebt, dass diese Info nicht hängen blieb. Sie hat die ganze Hinfahrt von Messina bis zum Ätna (über 2,5h Fahrt) ununterbrochen geredet. Nach Taormina wurde es ein wenig besser, da ein Film über den Vesus abgespielt wurde. Auf der Rückfahrt zum Schiff war es zum Glück ziemlich ruhig.
 
-<img loading="lazy" src="/assets/2011/12/celebrity_silhouette_1.jpg" alt="" title="Bucht von Taormina"   class="alignnone size-full wp-image-490" srcset="/assets/2011/12/celebrity_silhouette_1.jpg 606w, /assets/2011/12/celebrity_silhouette_1-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Bucht von Taormina](/assets/2011/12/celebrity_silhouette_1.jpg)
 
 Selten war ich so froh, dass ein Ausflug endlich wieder zu Ende war.
 
@@ -235,14 +235,14 @@ Uns wurde bereits am Vorabend aus den Bordlautsprechern verkündet, dass die öf
 
 Unser Guide hat heute auch wieder viel zu erzählen. Zum Glück ist das Wetter dafür um Längen besser. Ohne eine Wolke am Himmel sieht man bereits vom Hafen den Vesus. Nach etwa einer halbstündigen Busfahrt kommen wir in Pompeii an.
 
-<img loading="lazy" src="/assets/2011/12/celebrity_silhouette_15.jpg" alt="" title="Ein Seabourn Schiff im Hafen von Neapel, im Hintergrund der Vesuv"   class="alignnone size-full wp-image-504" srcset="/assets/2011/12/celebrity_silhouette_15.jpg 606w, /assets/2011/12/celebrity_silhouette_15-300x200.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Ein Seabourn Schiff im Hafen von Neapel, im Hintergrund der Vesuv](/assets/2011/12/celebrity_silhouette_15.jpg)
 Hier hat man sich etwas besonderes einfallen lassen, die einzigen zugänglichen öffentlichen Toiletten wurden in einen überteuerten Schmuckladen ganz am hinteren Ende eingebaut. Wer also mal muss, muss durch den ganzen Laden durch.
 
 In einer zweistündigen Führung sehen wir die aktuell zugänglichen Bereiche mit Hafen-Zugang, Gerichtsgebäude, Amphitheater, Bordell, Nobelhaus mit dem, was wir leider auf dem Kreuzfahrtschiff vermisst haben, dem Vomitarium.
 
-<img loading="lazy" src="/assets/2011/12/celebrity_silhouette_2.jpg" alt="" title="Pompeii, im Hintergrund der Vesuv"   class="alignnone size-full wp-image-491" srcset="/assets/2011/12/celebrity_silhouette_2.jpg 606w, /assets/2011/12/celebrity_silhouette_2-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Pompeii, im Hintergrund der Vesuv](/assets/2011/12/celebrity_silhouette_2.jpg)
 
-<img loading="lazy" src="/assets/2011/12/celebrity_silhouette_3.jpg" alt="" title="Pompeii"   class="alignnone size-full wp-image-492" srcset="/assets/2011/12/celebrity_silhouette_3.jpg 606w, /assets/2011/12/celebrity_silhouette_3-300x225.jpg 300w" sizes="(max-width: 606px) 85vw, 606px" />
+![Pompeii](/assets/2011/12/celebrity_silhouette_3.jpg)
 Nach der Rückkehr tingeln wir noch ein wenig auf eigene Faust durch Neapel und nutzen das schöne warme Wetter noch für ein paar Runden im Pool.
 
 ### Fr 18.11.11 – Civitavecchia

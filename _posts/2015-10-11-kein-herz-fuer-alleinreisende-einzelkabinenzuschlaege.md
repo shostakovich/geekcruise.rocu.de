@@ -4,7 +4,7 @@ title: '(K)ein Herz für Alleinreisende – Einzelkabinenzuschläge'
 date: 2015-10-11T17:54:58+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?p=1228
+
 permalink: /2015/10/kein-herz-fuer-alleinreisende-einzelkabinenzuschlaege/
 categories:
   - Blog

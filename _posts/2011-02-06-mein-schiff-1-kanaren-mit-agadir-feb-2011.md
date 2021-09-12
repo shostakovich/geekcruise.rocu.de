@@ -4,28 +4,28 @@ title: 'Mein Schiff 1: Kanaren mit Agadir – Feb. 2011'
 date: 2011-07-17T15:14:43+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?page_id=327
+
 ---
 Hier ist mein Reisebericht über meine erste Kreuzfahrt. Es ging mit der &#8222;Mein Schiff&#8220; von TUI Cruises in einer siebentägigen Kreuzfahrt zu den Kanaren und nach Agadir, Marokko.
 
 ### Erster Tag, Sonntag 06.02.11 – München nach Las Palmas, Gran Canaria – Anreisetag
 
 
-<img loading="lazy" src="/assets/2011/02/007.jpg" alt="" title="unser Flieger in München"   class="alignnone size-full wp-image-2198" />
+![unser Flieger in München](/assets/2011/02/007.jpg)
 
-<img loading="lazy" src="/assets/2011/02/012.jpg" alt="" title="alle strömen in den Bus (Gran Canaria - Flughafen)"   class="alignnone size-full wp-image-2199" />
+![alle strömen in den Bus (Gran Canaria - Flughafen)](/assets/2011/02/012.jpg)
 
-<img loading="lazy" src="/assets/2011/02/022.jpg" alt="" title="zum ersten mal das Schiff gesichet"   class="alignnone size-full wp-image-2200" />
+![zum ersten mal das Schiff gesichet](/assets/2011/02/022.jpg)
 
-<img loading="lazy" src="/assets/2011/02/024.jpg" alt="" title="nach mehrmaligen Anstellen geht es endlich an Bord"   class="alignnone size-full wp-image-2201" />
+![nach mehrmaligen Anstellen geht es endlich an Bord](/assets/2011/02/024.jpg)
 
-<img loading="lazy" src="/assets/2011/02/042.jpg" alt="" title="Mein Schiff - Schornstein"   class="alignnone size-full wp-image-2202" />
+![Mein Schiff - Schornstein](/assets/2011/02/042.jpg)
 
-<img loading="lazy" src="/assets/2011/02/057.jpg" alt="" title="Kabine"   class="alignnone size-full wp-image-2203" />
+![Kabine](/assets/2011/02/057.jpg)
 
-<img loading="lazy" src="/assets/2011/02/067.jpg" alt="" title="Sonnenuntergang über Gran Canaria"   class="alignnone size-full wp-image-2204" />
+![Sonnenuntergang über Gran Canaria](/assets/2011/02/067.jpg)
 
-<img loading="lazy" src="/assets/2011/02/081.jpg" alt="" title="da tanzt auch der Rollator mit, die ABBA-Show auf dem Pool-Deck"   class="alignnone size-full wp-image-2205" />
+![da tanzt auch der Rollator mit, die ABBA-Show auf dem Pool-Deck](/assets/2011/02/081.jpg)
 
 01:30 Aufstehen
 02:10 zum Flughafen (S-Bahn), eine S-Bahn, die mir etwas mehr Schlaf vergönnt hätte, gab es leider nicht. Die Augen fallen immer wieder zu.
@@ -51,15 +51,15 @@ Hier ist mein Reisebericht über meine erste Kreuzfahrt. Es ging mit der &#8222;
 ### Zweiter Tag, Montag 07.02.11 – Seetag
 
 
-<img loading="lazy" src="/assets/2011/02/101.jpg" alt="" title="Sonnenaufgang über Fuerteventura vom Balkon geknipst"   class="alignnone size-full wp-image-2206" />
+![Sonnenaufgang über Fuerteventura vom Balkon geknipst](/assets/2011/02/101.jpg)
 
-<img loading="lazy" src="/assets/2011/02/105.jpg" alt="" title="Chillen in der Hängematte"   class="alignnone size-full wp-image-2207" />
+![Chillen in der Hängematte](/assets/2011/02/105.jpg)
 
-<img loading="lazy" src="/assets/2011/02/146.jpg" alt="" title="Rettungsboot bereit zum Einsteigen, aber nur für die Seenotrettungsübung"   class="alignnone size-full wp-image-2211" />
+![Rettungsboot bereit zum Einsteigen, aber nur für die Seenotrettungsübung](/assets/2011/02/146.jpg)
 
-<img loading="lazy" src="/assets/2011/02/171.jpg" alt="" title="Das Theater füllt sich"   class="alignnone size-full wp-image-2212" />
+![Das Theater füllt sich](/assets/2011/02/171.jpg)
 
-<img loading="lazy" src="/assets/2011/02/173.jpg" alt="" title="gleich geht der Vorhang auf"   class="alignnone size-full wp-image-2213" />
+![gleich geht der Vorhang auf](/assets/2011/02/173.jpg)
 
 06:45 werde durch etwas zu warme Decke und durch das schaukelnde Bett wach, wird das Schiff in der Dunkelheit untergehen oder noch schlimmer, werde ich seekrank?
 07:40 Sonnenaufgang bewundert, Fotos Fotos, Fotos
@@ -92,17 +92,17 @@ Mango-Kuchen, gut, aber kleine Portion
 ### Dritter Tag, Dienstag 08.02.11 – Agadir, Marokko
 
 
-<img loading="lazy" src="/assets/2011/02/186.jpg" alt="" title="Afrika in Sicht - Agadir - Marokko"   class="alignnone size-full wp-image-2214" />
+![Afrika in Sicht - Agadir - Marokko](/assets/2011/02/186.jpg)
 
-<img loading="lazy" src="/assets/2011/02/197.jpg" alt="" title="Impressionen vom Imouzzer Nationalpark"   class="alignnone size-full wp-image-2215" />
+![Impressionen vom Imouzzer Nationalpark](/assets/2011/02/197.jpg)
 
-<img loading="lazy" src="/assets/2011/02/209.jpg" alt="" title="Impressionen vom Imouzzer Nationalpark - Oase"   class="alignnone size-full wp-image-2216" />
+![Impressionen vom Imouzzer Nationalpark - Oase](/assets/2011/02/209.jpg)
 
-<img loading="lazy" src="/assets/2011/02/215.jpg" alt="" title="Impressionen vom Imouzzer Nationalpark - Paradise Valley"   class="alignnone size-full wp-image-2217" />
+![Impressionen vom Imouzzer Nationalpark - Paradise Valley](/assets/2011/02/215.jpg)
 
-<img loading="lazy" src="/assets/2011/02/223.jpg" alt="" title="Impressionen vom Imouzzer Nationalpark - Paradise Valley"   class="alignnone size-full wp-image-2218" />
+![Impressionen vom Imouzzer Nationalpark - Paradise Valley](/assets/2011/02/223.jpg)
 
-<img loading="lazy" src="/assets/2011/02/245.jpg" alt="" title="Zurück im Hafen"   class="alignnone size-full wp-image-2219" />
+![Zurück im Hafen](/assets/2011/02/245.jpg)
 
 Nacht ein wenig unruhig, etwas Wellengang, aber sehr lauter Wind, kann nicht so gut schlafen
 07:00 Wecker klingelt, Afrika ist fast in Sicht (noch dunkel), mein erster neuer Kontinent
@@ -134,7 +134,7 @@ Crepes suzette, Eierkuchen in einer Orangen/Mandarinen-Wasser-Soße, war ok, abe
 ### Vierter Tag, Mittwoch 09.02.11 – Seetag, Richtung Kanaren
 
 
-<img loading="lazy" src="/assets/2011/02/261.jpg" alt="" title="die technisch-nautische Fragestunde"   class="alignnone size-full wp-image-2220" />
+![die technisch-nautische Fragestunde](/assets/2011/02/261.jpg)
 
 09:00 haben länger ausgeschlafen, gehen spät zum Frühstück, entsprechend voll ist es, es wird auch Kaviar serviert, wovon ich aber nichts probiere
 10:00 Termin in Spa-Bereich für eine Alpha-Wellen-Sitzung ausgemacht, danach Whirlpool
@@ -149,25 +149,25 @@ Crepes suzette, Eierkuchen in einer Orangen/Mandarinen-Wasser-Soße, war ok, abe
 ### Fünfter Tag, Donnerstag 10.02.11 – Teneriffa, Santa Cruz
 
 
-<img loading="lazy" src="/assets/2011/02/284.jpg" alt="" title="Teneriffa - Santa Cruz - Hafen"   class="alignnone size-full wp-image-2223" />
+![Teneriffa - Santa Cruz - Hafen](/assets/2011/02/284.jpg)
 
-<img loading="lazy" src="/assets/2011/02/290.jpg" alt="" title="Teneriffa - Santa Cruz - Fähre"   class="alignnone size-full wp-image-2224" />
+![Teneriffa - Santa Cruz - Fähre](/assets/2011/02/290.jpg)
 
-<img loading="lazy" src="/assets/2011/02/292.jpg" alt="" title="Teneriffa - Hafen - Mein Schiff"   class="alignnone size-full wp-image-2225" />
+![Teneriffa - Hafen - Mein Schiff](/assets/2011/02/292.jpg)
 
-<img loading="lazy" src="/assets/2011/02/303.jpg" alt="" title="Teneriffa - Blick Richtung Teide"   class="alignnone size-full wp-image-2226" />
+![Teneriffa - Blick Richtung Teide](/assets/2011/02/303.jpg)
 
-<img loading="lazy" src="/assets/2011/02/306.jpg" alt="" title="Teneriffa - Blick Richtung Teide"   class="alignnone size-full wp-image-2227" />
+![Teneriffa - Blick Richtung Teide](/assets/2011/02/306.jpg)
 
-<img loading="lazy" src="/assets/2011/02/313.jpg" alt="" title="Teneriffa - Wolkenwand"   class="alignnone size-full wp-image-2228" />
+![Teneriffa - Wolkenwand](/assets/2011/02/313.jpg)
 
-<img loading="lazy" src="/assets/2011/02/321.jpg" alt="" title="Teneriffa - Weiter zum Teide? Fehlanzeige, Straßensperrung"   class="alignnone size-full wp-image-2229" />
+![Teneriffa - Weiter zum Teide? Fehlanzeige, Straßensperrung](/assets/2011/02/321.jpg)
 
-<img loading="lazy" src="/assets/2011/02/332.jpg" alt="" title="Teneriffa - Puerto de la Cruz"   class="alignnone size-full wp-image-2230" />
+![Teneriffa - Puerto de la Cruz](/assets/2011/02/332.jpg)
 
-<img loading="lazy" src="/assets/2011/02/338.jpg" alt="" title="Teneriffa - Puerto de la Cruz - Wellen"   class="alignnone size-full wp-image-2231" />
+![Teneriffa - Puerto de la Cruz - Wellen](/assets/2011/02/338.jpg)
 
-<img loading="lazy" src="/assets/2011/02/363.jpg" alt="" title="Teneriffa - Anaga-Gebirge"   class="alignnone size-full wp-image-2232" />
+![Teneriffa - Anaga-Gebirge](/assets/2011/02/363.jpg)
 
 09:30 brechen zum Mietwagen-Verleih auf. Leider ist das Hafen-Gelände nicht so gut ausgeschildert. So dauert es bis wir den Eingang von dem Hafen-Gebäude finden, in dem sich auch der Auto-Verleih (Cicar) befindet.
 10:00 es geht von Santa Cruz Richtung La Orotava. Von dort wollen wir weiter Richtung Teide fahren. Nach gut 1,5h kommen wir schließlich an eine Straßensperrung. Hier geht es nicht weiter und auch eine Umfahrung, die zumindest in der Nähe wäre, gibt es nicht. Also Teide gestorben, neues Ziel.
@@ -189,19 +189,19 @@ Kalbs-Filet (Schnitzel) mit Reis
 ### Sechster Tag, Freitag 11.02.11 – La Gomera, San Sebastian
 
 
-<img loading="lazy" src="/assets/2011/02/389.jpg" alt="" title="Sonnenaufgang vor La Gomera"   class="alignnone size-full wp-image-2233" />
+![Sonnenaufgang vor La Gomera](/assets/2011/02/389.jpg)
 
-<img loading="lazy" src="/assets/2011/02/470.jpg" alt="" title="unser Flitzer an einer Bergstraße"   class="alignnone size-full wp-image-2234" />
+![unser Flitzer an einer Bergstraße](/assets/2011/02/470.jpg)
 
-<img loading="lazy" src="/assets/2011/02/477.jpg" alt="" title="Nationalpark Garajonay - Lorbeerwald"   class="alignnone size-full wp-image-2235" />
+![Nationalpark Garajonay - Lorbeerwald](/assets/2011/02/477.jpg)
 
-<img loading="lazy" src="/assets/2011/02/479.jpg" alt="" title="Nationalpark Garajonay - Lorbeerwald"   class="alignnone size-full wp-image-2236" />
+![Nationalpark Garajonay - Lorbeerwald](/assets/2011/02/479.jpg)
 
-<img loading="lazy" src="/assets/2011/02/525.jpg" alt="" title="La Gomera - Blick zum Meer"   class="alignnone size-full wp-image-2237" />
+![La Gomera - Blick zum Meer](/assets/2011/02/525.jpg)
 
-<img loading="lazy" src="/assets/2011/02/535.jpg" alt="" title="da ist es wieder - Mein Schiff"   class="alignnone size-full wp-image-2238" />
+![da ist es wieder - Mein Schiff](/assets/2011/02/535.jpg)
 
-<img loading="lazy" src="/assets/2011/02/552.jpg" alt="" title="Mein Schiff im Hafen von San Sebastian"   class="alignnone size-full wp-image-2239" />
+![Mein Schiff im Hafen von San Sebastian](/assets/2011/02/552.jpg)
 
 07:30 Aufstehen
 08:00 wir laufen in den Hafen ein
@@ -219,46 +219,46 @@ Nach der Nordküste nehmen wir nun Kurs auf den Nationalpark Garajonay. Auch hie
 Essen:
 Nachmittag-Snack bestehend aus Kuchen und Hot-Dogle
 Abendessen:
--Vorspeise:Schinken und Salami mit Gemüse
--Suppe: Kichererbsen-Suppe
--Zwischenmahlzeit: Salat mit einer tollen Krokette
--Hauptgang: Kalbsschnitzel
--Dessert: Eierkuchen mit Bananenmark und Banenenstücken und Vanille-Eis
+* Vorspeise:Schinken und Salami mit Gemüse
+* Suppe: Kichererbsen-Suppe
+* Zwischenmahlzeit: Salat mit einer tollen Krokette
+* Hauptgang: Kalbsschnitzel
+* Dessert: Eierkuchen mit Bananenmark und Banenenstücken und Vanille-Eis
 
 * * *
 
 ### Siebter Tag, Samstag 12.02.11 – Lanzarote, Arrecife
 
 
-<img loading="lazy" src="/assets/2011/02/568.jpg" alt="" title="Lanzarote, Arrecife - Hafen"   class="alignnone size-full wp-image-2242" />
+![Lanzarote, Arrecife - Hafen](/assets/2011/02/568.jpg)
 
-<img loading="lazy" src="/assets/2011/02/569.jpg" alt="" title="Lanzarote, aus dem Auto"   class="alignnone size-full wp-image-2243" />
+![Lanzarote, aus dem Auto](/assets/2011/02/569.jpg)
 
-<img loading="lazy" src="/assets/2011/02/572.jpg" alt="" title="man beachte die beiden parallelgeführten Straßen Richtung Playa Blanca"   class="alignnone size-full wp-image-2244" />
+![man beachte die beiden parallelgeführten Straßen Richtung Playa Blanca](/assets/2011/02/572.jpg)
 
-<img loading="lazy" src="/assets/2011/02/582.jpg" alt="" title="Lanzarote - Salinas de Janubio"   class="alignnone size-full wp-image-2245" />
+![Lanzarote - Salinas de Janubio](/assets/2011/02/582.jpg)
 
-<img loading="lazy" src="/assets/2011/02/586.jpg" alt="" title="Lanzarote - aus dem Auto"   class="alignnone size-full wp-image-2246" />
+![Lanzarote - aus dem Auto](/assets/2011/02/586.jpg)
 
-<img loading="lazy" src="/assets/2011/02/588.jpg" alt="" title="Lanzarote - Kameltrack, kann man sich sparen, was die sehen, sieht man auch in der Bustour und dann noch vieles mehr"   class="alignnone size-full wp-image-2247" />
+![Lanzarote - Kameltrack, kann man sich sparen, was die sehen, sieht man auch in der Bustour und dann noch vieles mehr](/assets/2011/02/588.jpg)
 
-<img loading="lazy" src="/assets/2011/02/606.jpg" alt="" title="Timanfaya-Nationalpark - aus dem Bus"   class="alignnone size-full wp-image-2248" />
+![Timanfaya-Nationalpark - aus dem Bus](/assets/2011/02/606.jpg)
 
-<img loading="lazy" src="/assets/2011/02/608.jpg" alt="" title="Timanfaya-Nationalpark - aus dem Bus"   class="alignnone size-full wp-image-2249" />
+![Timanfaya-Nationalpark - aus dem Bus](/assets/2011/02/608.jpg)
 
-<img loading="lazy" src="/assets/2011/02/616.jpg" alt="" title="Timanfaya-Nationalpark - aus dem Bus"   class="alignnone size-full wp-image-2250" />
+![Timanfaya-Nationalpark - aus dem Bus](/assets/2011/02/616.jpg)
 
-<img loading="lazy" src="/assets/2011/02/621.jpg" alt="" title="Timanfaya-Nationalpark - aus dem Bus"   class="alignnone size-full wp-image-2251" />
+![Timanfaya-Nationalpark - aus dem Bus](/assets/2011/02/621.jpg)
 
-<img loading="lazy" src="/assets/2011/02/633.jpg" alt="" title="Mirador del Río mit Blick auf La Graciosa"   class="alignnone size-full wp-image-2252" />
+![Mirador del Río mit Blick auf La Graciosa](/assets/2011/02/633.jpg)
 
-<img loading="lazy" src="/assets/2011/02/646.jpg" alt="" title="die neuhe däutsche Rächtschreihbunk"   class="alignnone size-full wp-image-2253" />
+![die neuhe däutsche Rächtschreihbunk](/assets/2011/02/646.jpg)
 
-<img loading="lazy" src="/assets/2011/02/657.jpg" alt="" title="Jameos del Agua - Maskottchen Krabbe"   class="alignnone size-full wp-image-2254" />
+![Jameos del Agua - Maskottchen Krabbe](/assets/2011/02/657.jpg)
 
-<img loading="lazy" src="/assets/2011/02/663.jpg" alt="" title="Jameos del Agua"   class="alignnone size-full wp-image-2255" />
+![Jameos del Agua](/assets/2011/02/663.jpg)
 
-<img loading="lazy" src="/assets/2011/02/675.jpg" alt="" title="Jameos del Agua von oben"   class="alignnone size-full wp-image-2257" />
+![Jameos del Agua von oben](/assets/2011/02/675.jpg)
 
 9:00 holen unser Auto bei Cicar, die Autovermietung ist heute wieder leicht zu erreichen. Wir erhalten heute ein Saab Cabrio. Es ist zwar ein bissl abgenutzt, aber fein zu fahren, so man Automatik fahren kann und nicht denkt, die Bremse sei die Kupplung. Drei Mal lerne ich als Beifahrer die Kraft des Gurtes deutlich kennen.
 09:45 schauen uns die Salinas de Janubio an, nach dem wir einen kleinen Umweg Richtung Süden machen mussten, die Ausschilderung ist halt nicht die beste
@@ -284,9 +284,9 @@ Schoko-Parfait: war nicht so lecker, war zu kalt und hart
 ### Achter Tag, Sonntag 13.02.11 – Gran Canaria, Las Palmas
 
 
-<img loading="lazy" src="/assets/2011/02/680.jpg" alt="" title="noch ein schönes Stilleben vom Schiff"   class="alignnone size-full wp-image-2258" />
+![noch ein schönes Stilleben vom Schiff](/assets/2011/02/680.jpg)
 
-<img loading="lazy" src="/assets/2011/02/683.jpg" alt="" title="es ist vollbracht, wir stehen nun in der Schlange am Flughafen in Las Palmas und blicken auf einer tolle ereignisreiche Woche zurück"   class="alignnone size-full wp-image-2259" />
+![es ist vollbracht, wir stehen nun in der Schlange am Flughafen in Las Palmas und blicken auf einer tolle ereignisreiche Woche zurück](/assets/2011/02/683.jpg)
 06:45 Aufstehen
 07:30 Frühstück
 08:00 letzter Spaziergang über das Schiff
@@ -306,12 +306,12 @@ nur Frühstück
 ### Doppelgänger-Liste:
 
 wir haben folgende Doppelgänger auf dem Schiff entdeckt:
--Peter Griffin, mit Doppelkinn, aber ohne grüne Hose und weißem Hemd
--Raquel Ochmonek (die Nachbarin von Alf), ich musste erstmal Googlen, wie man das schreibt
--Cindy aus Marzahn bzw. hier aus La Gomera, statt mit rosa Anzug war sie im weinrot Anzug unterwegs
--Chuck Noris jr.
--Porno Kalle (mit Minipli-Vokuhila und Goldkettchen mit Sonnenbankbräune – Stufe Apokalypsebräunung)
--Michael Gorbatschow
+* Peter Griffin, mit Doppelkinn, aber ohne grüne Hose und weißem Hemd
+* Raquel Ochmonek (die Nachbarin von Alf), ich musste erstmal Googlen, wie man das schreibt
+* Cindy aus Marzahn bzw. hier aus La Gomera, statt mit rosa Anzug war sie im weinrot Anzug unterwegs
+* Chuck Noris jr.
+* Porno Kalle (mit Minipli-Vokuhila und Goldkettchen mit Sonnenbankbräune – Stufe Apokalypsebräunung)
+* Michael Gorbatschow
 
 * * *
 

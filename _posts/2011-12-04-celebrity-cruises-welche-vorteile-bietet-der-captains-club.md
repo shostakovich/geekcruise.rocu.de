@@ -4,7 +4,7 @@ title: 'Celebrity Cruises: Welche Vorteile bietet der Captain&#8217;s Club?'
 date: 2011-12-04T11:21:32+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?p=481
+
 permalink: /2011/12/celebrity-cruises-welche-vorteile-bietet-der-captains-club/
 categories:
   - Blog

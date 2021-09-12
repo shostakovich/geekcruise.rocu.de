@@ -4,7 +4,7 @@ title: 'Video: Warum man eine Balkonkabine buchen sollte'
 date: 2011-05-07T18:18:03+00:00
 author: SES
 layout: post
-guid: http://geekcruise.zipfelmaus.com/?p=117
+
 permalink: /2011/05/video-warum-man-eine-balkonkabine-buchen-sollte/
 categories:
   - Blog

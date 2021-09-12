@@ -4,7 +4,7 @@ title: 4 Tipps zur Kabinenauswahl
 date: 2016-10-02T12:03:59+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?p=1439
+
 permalink: /2016/10/4-tipps-zur-kabinenauswahl/
 categories:
   - Blog
@@ -21,7 +21,8 @@ Die richtige Kabine zu finden ist manchmal gar nicht so leicht, schließlich ist
 ### 1. Den Deckplan studieren
 
 
-<img loading="lazy" src="/assets/2016/10/deckplan_koningsdam.jpg" alt="Deckplan MS Koningsdam"   class="size-full wp-image-1444" srcset="/assets/2016/10/deckplan_koningsdam.jpg 922w, /assets/2016/10/deckplan_koningsdam-300x225.jpg 300w, /assets/2016/10/deckplan_koningsdam-768x576.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /
+![Deckplan MS Koningsdam](/assets/2016/10/deckplan_koningsdam.jpg)
+
 *Deckplan MS Koningsdam*
 
 Ein Stockwerk über oder unter der Kabine könnten sich Küche, Lagerräume oder andere laute Bereiche befinden.
@@ -44,7 +45,8 @@ Diese Kabinen sind meist deutlich billiger, da man sich nicht die Lage der Kabin
 ### 4. Welche Kabinenkategorie ist die richtige für mich?
 
 
-<img loading="lazy" src="/assets/2016/10/20151110_120630-COLLAGE-1024x1024.jpg" alt="unterschiedliche Kabinenkategorien"   class="size-large wp-image-1447" srcset="/assets/2016/10/20151110_120630-COLLAGE-1024x1024.jpg 1024w, /assets/2016/10/20151110_120630-COLLAGE-150x150.jpg 150w, /assets/2016/10/20151110_120630-COLLAGE-300x300.jpg 300w, /assets/2016/10/20151110_120630-COLLAGE-768x768.jpg 768w, /assets/2016/10/20151110_120630-COLLAGE-1200x1200.jpg 1200w, /assets/2016/10/20151110_120630-COLLAGE.jpg 2046w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /
+![unterschiedliche Kabinenkategorien](/assets/2016/10/20151110_120630-COLLAGE-1024x1024.jpg)
+
 *unterschiedliche Kabinenkategorien*
 Einsteiger sollten am besten mit einer Balkonkabine anfangen. Hier kann man das Meer am besten genießen.
 Reist man als Familie kann es sinnvoll sein, anstatt zwei Balkonkabinen nur eine zu buchen und die gegenüberliegende Innenkabine z.B. für die Kids zu verwenden.

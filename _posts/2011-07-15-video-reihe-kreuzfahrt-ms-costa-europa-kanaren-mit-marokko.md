@@ -4,7 +4,7 @@ title: 'Video-Reihe: Kreuzfahrt MS Costa Europa – Kanaren mit Marokko'
 date: 2011-07-15T19:36:50+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?p=256
+
 permalink: /2011/07/video-reihe-kreuzfahrt-ms-costa-europa-kanaren-mit-marokko/
 categories:
   - Blog

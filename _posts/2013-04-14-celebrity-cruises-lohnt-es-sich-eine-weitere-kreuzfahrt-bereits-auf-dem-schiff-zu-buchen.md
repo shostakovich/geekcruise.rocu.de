@@ -4,7 +4,7 @@ title: 'Celebrity Cruises – lohnt es sich eine weitere Kreuzfahrt bereits auf 
 date: 2013-04-14T13:15:29+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?p=940
+
 permalink: /2013/04/celebrity-cruises-lohnt-es-sich-eine-weitere-kreuzfahrt-bereits-auf-dem-schiff-zu-buchen/
 categories:
   - Blog

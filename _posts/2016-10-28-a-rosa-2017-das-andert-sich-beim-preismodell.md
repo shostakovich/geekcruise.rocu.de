@@ -4,7 +4,7 @@ title: 'A-Rosa – 2017: das ändert sich beim Preismodell'
 date: 2016-10-28T19:46:18+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?p=1451
+
 permalink: /2016/10/a-rosa-2017-das-andert-sich-beim-preismodell/
 categories:
   - Blog

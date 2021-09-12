@@ -4,7 +4,7 @@ title: Tipps für mehr Onboard-Guthaben
 date: 2011-10-03T19:30:50+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?p=463
+
 permalink: /2011/10/tipps-fur-mehr-onbord-guthaben/
 categories:
   - Blog

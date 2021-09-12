@@ -4,7 +4,7 @@ title: 'Celebrity Equinox: Zeitraffer-Video Abfahrt von Istanbul'
 date: 2011-12-04T12:32:12+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?p=486
+
 permalink: /2011/12/celebrity-equinox-zeitraffer-video-abfahrt-von-istanbul/
 categories:
   - Blog

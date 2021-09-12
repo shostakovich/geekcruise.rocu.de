@@ -4,12 +4,12 @@ title: 'NCL Epic: westliches Mittelmeer ab Barcelona- 25.04.12 (5-tägig)'
 date: 2012-05-12T12:03:58+00:00
 author: SES
 layout: post
-guid: http://geekcruise.de/?page_id=577
+
 ---
 Zurückgelegte Distanz: 1165km/629sm
 
 [
-<img loading="lazy" src="/assets/2012/04/gps_route_ncl_epic_120423_sml.png" alt="" title="GPS-Route NCL Epic - 23.04.12 westliches Mittelmeer"   class="alignnone size-full wp-image-581" />](/assets/2012/04/gps_route_ncl_epic_120423.png)
+![GPS-Route NCL Epic - 23.04.12 westliches Mittelmeer](/assets/2012/04/gps_route_ncl_epic_120423_sml.png)](/assets/2012/04/gps_route_ncl_epic_120423.png)
 
 ## Barcelona
 
@@ -17,21 +17,21 @@ Zurückgelegte Distanz: 1165km/629sm
 
 Bevor es an Bord der NCL Epic ging, standen erst einmal zweieinhalb Tage Barcelona auf dem Programm.
 
-<img loading="lazy" src="/assets/2012/05/ncl_epic_barcelona_001.jpg" alt="" title="Barcelona"   />
+![Barcelona](/assets/2012/05/ncl_epic_barcelona_001.jpg)
 
-<img loading="lazy" src="/assets/2012/05/ncl_epic_barcelona_002.jpg" alt="" title="Barcelona"   />
+![Barcelona](/assets/2012/05/ncl_epic_barcelona_002.jpg)
 
-<img loading="lazy" src="/assets/2012/05/ncl_epic_barcelona_003.jpg" alt="" title="Barcelona"   />
-
-
-<img loading="lazy" src="/assets/2012/05/ncl_epic_barcelona_004.jpg" alt="" title="Barcelona"   />
-
-<img loading="lazy" src="/assets/2012/05/ncl_epic_barcelona_005.jpg" alt="" title="Barcelona"   />
-
-<img loading="lazy" src="/assets/2012/05/ncl_epic_barcelona_006.jpg" alt="" title="Barcelona"   />
+![Barcelona](/assets/2012/05/ncl_epic_barcelona_003.jpg)
 
 
-<img loading="lazy" src="/assets/2012/05/ncl_epic_barcelona_007.jpg" alt="" title="Barcelona"   />
+![Barcelona](/assets/2012/05/ncl_epic_barcelona_004.jpg)
+
+![Barcelona](/assets/2012/05/ncl_epic_barcelona_005.jpg)
+
+![Barcelona](/assets/2012/05/ncl_epic_barcelona_006.jpg)
+
+
+![Barcelona](/assets/2012/05/ncl_epic_barcelona_007.jpg)
 
 Während des zweieinhalb-tägigen Aufenthalts haben wir u.a. den Doppelstock-Bus genutzt und sind mit ihm zu den bekanntesten Wahrzeichen der Stadt gefahren.
 
@@ -56,10 +56,10 @@ Während des zweieinhalb-tägigen Aufenthalts haben wir u.a. den Doppelstock-Bus
 ### Mittwoch, 25.04.12 – Checkin
 
 
-<img loading="lazy" src="/assets/2012/05/ncl_epic_01.jpg" alt="" title="NCL Epic"   class="alignnone size-full wp-image-624" />
+![NCL Epic](/assets/2012/05/ncl_epic_01.jpg)
 
 Der Checkin verlief recht zügig. Nach etwa 45min waren wir auf dem Schiff und konnten bereits ein kleines Mittagessen im Buffetrestaurant zu uns nehmen.
-Bereits um 14:00 waren die Kabinen (hier ein Blick in unsere [Innenkabine](http://geekcruise.de/2012/05/ncl-epic-wie-sehen-die-innenkabinen-aus/)) fertig und konnten von den neuen Gästen genutzt werden. Also nichts wie rein in die Badeklamotten und den Epic Plunge ausprobiert – yeah.
+Bereits um 14:00 waren die Kabinen (hier ein Blick in unsere [Innenkabine](/2012/05/ncl-epic-wie-sehen-die-innenkabinen-aus/)) fertig und konnten von den neuen Gästen genutzt werden. Also nichts wie rein in die Badeklamotten und den Epic Plunge ausprobiert – yeah.
 
 Youtube-Video (Quelle: MrsHenderson)
 
@@ -79,7 +79,7 @@ Am Abend ging es dann noch ins Theater zu der Show &#8222;Legends in Concert&#82
   * Bei der Rückfahrt sehr lange Wartezeit auf Shuttlebus und sehr lange Fahrzeit zurück zum Hafen. Der komplette Weg war ein einziger Stau.
 
 
-<img loading="lazy" src="/assets/2012/05/ncl_epic_marseille_001.jpg" alt="" title="Marseille"   />
+![Marseille](/assets/2012/05/ncl_epic_marseille_001.jpg)
 
 
 
@@ -100,9 +100,9 @@ Tipp: NCL verkauft den Shuttle-Bus für 20$ (laut Tagesprogramm), der Shuttle-Bu
   * Ankunft 8:00, Abfahrt 18:00
   * gebuchter Ausflug (49$ p.P.): Scenic Palma and Valldemossa: Fahrt durch Palma, mit Fotostopp an Kathedrale, dann Fahrt nach Valldemossa, einem in den Bergen gelegenem schmucken Dorf, leider nur 30min zur freien Verfügung. Dann Rückkehr nach Palma, kurzer Fotostopp an der Burg, dann Besuch einer Stierkampfarena und einem Perlenverkauf. Anschließend Möglichkeit die Innenstadt von Palma auf eigene Faust zu erkunden. Vom Shuttlehalt zurück zum Schiff.
 
-<img loading="lazy" src="/assets/2012/05/mallorca_01.jpg" alt="" title="Mallorca - Valldemosa"   class="alignnone size-full wp-image-626" />
+![Mallorca - Valldemosa](/assets/2012/05/mallorca_01.jpg)
 
-<img loading="lazy" src="/assets/2012/05/mallorca_02.jpg" alt="" title="Mallorca - Palma de Mallorca - Kathedrale"   class="alignnone size-full wp-image-627" />
+![Mallorca - Palma de Mallorca - Kathedrale](/assets/2012/05/mallorca_02.jpg)
 
 ### fünfter Tag, Sonntag 29.04.12
 
